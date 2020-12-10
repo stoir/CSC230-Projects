@@ -1,0 +1,160 @@
+cmd> catalog
+   ID                                  Title               Author Level   Words
+   11       Alice's Adventures in Wonderland       Carroll, Lewis   9.3   26389
+   23 Narrative of the Life of Frederick D..  Douglass, Frederick  10.5   40740
+   42 The Strange Case of Dr. Jekyll and M.. Stevenson, Robert ..  11.0   25740
+   74           The Adventures of Tom Sawyer          Twain, Mark   8.8   70796
+   76         Adventures of Huckleberry Finn          Twain, Mark   8.7  111219
+   84 Frankenstein; Or, The Modern Prometh.. Shelley, Mary Woll..  12.6   74959
+   98                   A Tale of Two Cities     Dickens, Charles  10.3  135820
+  120                        Treasure Island Stevenson, Robert ..   9.2   68267
+  135                         Les Miserables         Hugo, Victor  10.2  565071
+  158                                   Emma         Austen, Jane   9.6  157439
+  160 The Awakening, and Selected Short St..         Chopin, Kate   8.8   63991
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+  174             The Picture of Dorian Gray         Wilde, Oscar   6.7   78920
+  219                      Heart of Darkness       Conrad, Joseph   9.0   37902
+  345                                Dracula         Stoker, Bram   8.8  160693
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+  829 Gulliver's Travels into Several Remo..      Swift, Jonathan  19.3  104293
+  844 The Importance of Being Earnest: A T..         Wilde, Oscar   7.0   20625
+ 1080 A Modest Proposal: For preventing th..      Swift, Jonathan  26.6    3410
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 1232                             The Prince Machiavelli, Niccolo  20.6   49525
+ 1260            Jane Eyre: An Autobiography    Bronte, Charlotte  10.4  185452
+ 1322                        Leaves of Grass        Whitman, Walt  19.1  121711
+ 1342                    Pride and Prejudice         Austen, Jane  10.7  121533
+ 1400                     Great Expectations     Dickens, Charles   9.9  184398
+ 1661      The Adventures of Sherlock Holmes  Doyle, Arthur Conan   8.2  104488
+ 1952                   The Yellow Wallpaper Gilman, Charlotte ..   7.2    6067
+ 2542                A Doll's House : a play        Ibsen, Henrik   5.3   26466
+ 2591                    Grimms' Fairy Tales       Grimm, Wilhelm  10.5  101107
+ 2600                          War and Peace   Tolstoy, Leo, graf  10.8  563029
+ 2701               Moby Dick; Or, The Whale     Melville, Herman  13.4  212099
+ 2814                              Dubliners         Joyce, James   8.0   67546
+ 3207                              Leviathan       Hobbes, Thomas  20.6  213304
+ 4300                                Ulysses         Joyce, James   8.6  264835
+ 5200                          Metamorphosis         Kafka, Franz  13.8   22022
+16328      Beowulf: An Anglo-Saxon Epic Poem              Unknown  13.3   38925
+27827 The Kama Sutra of Vatsyayana: Transl..           Vatsyayana  13.5   58912
+30254 The Romance of Lust: A Classic Victo..            Anonymous  12.9  188911
+
+cmd> add 1952
+
+cmd> add 27827
+
+cmd> add 135
+
+cmd> add 160
+
+cmd> add 844
+
+cmd> add 84
+
+cmd> add 829
+
+cmd> add 1342
+
+cmd> add 161
+
+cmd> add 219
+
+cmd> add 1322
+
+cmd> add 2591
+
+cmd> add 42
+
+cmd> add 4300
+
+cmd> add 1661
+
+cmd> add 2814
+
+cmd> add 98
+
+cmd> add 2542
+
+cmd> add 345
+
+cmd> add 76
+
+cmd> add 768
+
+cmd> add 3207
+
+cmd> add 30254
+
+cmd> add 120
+
+cmd> add 23
+
+cmd> add 1232
+
+cmd> add 2600
+
+cmd> add 174
+
+cmd> add 1080
+
+cmd> add 5200
+
+cmd> add 1184
+
+cmd> add 1400
+
+cmd> add 11
+
+cmd> add 16328
+
+cmd> add 74
+
+cmd> add 2701
+
+cmd> add 158
+
+cmd> add 1260
+
+cmd> list
+   ID                                  Title               Author Level   Words
+ 1952                   The Yellow Wallpaper Gilman, Charlotte ..   7.2    6067
+27827 The Kama Sutra of Vatsyayana: Transl..           Vatsyayana  13.5   58912
+  135                         Les Miserables         Hugo, Victor  10.2  565071
+  160 The Awakening, and Selected Short St..         Chopin, Kate   8.8   63991
+  844 The Importance of Being Earnest: A T..         Wilde, Oscar   7.0   20625
+   84 Frankenstein; Or, The Modern Prometh.. Shelley, Mary Woll..  12.6   74959
+  829 Gulliver's Travels into Several Remo..      Swift, Jonathan  19.3  104293
+ 1342                    Pride and Prejudice         Austen, Jane  10.7  121533
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+  219                      Heart of Darkness       Conrad, Joseph   9.0   37902
+ 1322                        Leaves of Grass        Whitman, Walt  19.1  121711
+ 2591                    Grimms' Fairy Tales       Grimm, Wilhelm  10.5  101107
+   42 The Strange Case of Dr. Jekyll and M.. Stevenson, Robert ..  11.0   25740
+ 4300                                Ulysses         Joyce, James   8.6  264835
+ 1661      The Adventures of Sherlock Holmes  Doyle, Arthur Conan   8.2  104488
+ 2814                              Dubliners         Joyce, James   8.0   67546
+   98                   A Tale of Two Cities     Dickens, Charles  10.3  135820
+ 2542                A Doll's House : a play        Ibsen, Henrik   5.3   26466
+  345                                Dracula         Stoker, Bram   8.8  160693
+   76         Adventures of Huckleberry Finn          Twain, Mark   8.7  111219
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+ 3207                              Leviathan       Hobbes, Thomas  20.6  213304
+30254 The Romance of Lust: A Classic Victo..            Anonymous  12.9  188911
+  120                        Treasure Island Stevenson, Robert ..   9.2   68267
+   23 Narrative of the Life of Frederick D..  Douglass, Frederick  10.5   40740
+ 1232                             The Prince Machiavelli, Niccolo  20.6   49525
+ 2600                          War and Peace   Tolstoy, Leo, graf  10.8  563029
+  174             The Picture of Dorian Gray         Wilde, Oscar   6.7   78920
+ 1080 A Modest Proposal: For preventing th..      Swift, Jonathan  26.6    3410
+ 5200                          Metamorphosis         Kafka, Franz  13.8   22022
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 1400                     Great Expectations     Dickens, Charles   9.9  184398
+   11       Alice's Adventures in Wonderland       Carroll, Lewis   9.3   26389
+16328      Beowulf: An Anglo-Saxon Epic Poem              Unknown  13.3   38925
+   74           The Adventures of Tom Sawyer          Twain, Mark   8.8   70796
+ 2701               Moby Dick; Or, The Whale     Melville, Herman  13.4  212099
+  158                                   Emma         Austen, Jane   9.6  157439
+ 1260            Jane Eyre: An Autobiography    Bronte, Charlotte  10.4  185452
+                                                                   11.5 4970077
+
+cmd> quit

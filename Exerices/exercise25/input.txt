@@ -1,0 +1,3 @@
+this is a test of this program
+to see if it can really read and sort
+and print a list of words

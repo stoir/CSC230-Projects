@@ -1,0 +1,3 @@
+Minimum:     3.14
+Maximum:    98.60
+Average:    24.45

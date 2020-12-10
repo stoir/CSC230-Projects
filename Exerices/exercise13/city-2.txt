@@ -1,0 +1,11 @@
+10
+Chicago 41.883 -87.633
+New-York 40.667 -73.933
+Houston 29.767 -95.383
+Los-Angeles 34.05 -118.25
+Philadelphia 39.95 -75.167
+Raleigh 35.817 -78.65
+Phoenix 33.45 -112.067
+Seattle 47.617 -122.333
+Miami 25.783 -80.217
+Denver 39.733 -104.983

@@ -1,0 +1,8 @@
+enqueue real 1.2345
+enqueue string this is a string
+pop
+enqueue int 765
+bad command
+enqueue string won't get to here
+pop
+pop

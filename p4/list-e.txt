@@ -1,0 +1,968 @@
+16	Peter Pan	Barrie, J. M. (James Matthew)	8.2	47437	Peter Pan (Fictitious character) -- Fiction,Fantasy,Fairies -- Juvenile fiction,Never-Never Land (Imaginary place) -- Fiction,Pirates -- Juvenile fiction
+2500	Siddhartha	Hesse, Hermann	11.5	39139	Buddhist philosophy -- Fiction,Religious fiction,Buddhism -- Fiction,India -- Fiction,Gautama Buddha -- Fiction
+1497	The Republic	Plato	14.3	216169	Utopias -- Early works to 1800,Justice -- Early works to 1800,Political science -- Early works to 1800,Classical literature
+20203	Autobiography of Benjamin Franklin	Franklin, Benjamin	15.7	75983	Statesmen -- United States -- Biography;Franklin, Benjamin, 1706-1790
+521	The Life and Adventures of Robinson Crusoe	Defoe, Daniel	24	120813	Atlantic Ocean -- Fiction;Crusoe, Robinson (Fictitious character) -- Fiction;Adventure stories;Shipwreck survival -- Fiction;Castaways -- Fiction;Islands -- Fiction
+1934	Songs of Innocence, and Songs of Experience	Blake, William	11.2	5602	Pastoral poetry,English poetry -- 18th century
+3600	Essays of Michel de Montaigne - Complete	Montaigne, Michel de	20.5	525749	French essays -- Translations into English
+8800	The Divine Comedy by Dante, Illustrated	Dante Alighieri	13.9	108513	Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English
+46	A Christmas Carol in Prose; Being a Ghost Story of Christmas	Dickens, Charles	9.4	28541	Ghost stories;Scrooge, Ebenezer (Fictitious character) -- Fiction;Poor families -- Fiction;Christmas stories;London (England) -- Fiction;Misers -- Fiction;Sick children -- Fiction
+244	A Study in Scarlet	Doyle, Arthur Conan	9	43863	England -- Fiction;Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction;Private investigators -- England -- Fiction
+236	The Jungle Book	Kipling, Rudyard	8.8	50835	Jungles -- Fiction;Jungle animals -- Fiction;Feral children -- Fiction;Mowgli (Fictitious character) -- Fiction;Adventure stories, English;Animals -- Fiction;Short stories;India -- Fiction
+2554	Crime and Punishment	Dostoyevsky, Fyodor	7.9	203492	Saint Petersburg (Russia) -- Fiction,Russia -- Fiction,Detective and mystery stories,Psychological fiction
+6130	The Iliad	Homer	14.7	189422	Classical literature;Epic poetry, Greek -- Translations into English;Achilles (Mythological character) -- Poetry;Trojan War -- Poetry
+4363	Beyond Good and Evil	Nietzsche, Friedrich Wilhelm	21	62652	Philosophy, German;Ethics
+19942	Candide	Voltaire	11.4	35756	Satire,Optimism -- Fiction
+22657	Steam, Its Generation and Use	Babcock & Wilcox Company	14.8	135920	Steam-boilers, Water-tube
+3825	Pygmalion	Shaw, Bernard	7.5	33552	Linguistics teachers -- Drama,London (England) -- Drama,Flower vending -- Drama,Social classes -- Drama,Comedies,Speech and social status -- Drama
+100	The Complete Works of William Shakespeare	Shakespeare, William	7.9	882996	English drama -- Early modern and Elizabethan, 1500-1600
+730	Oliver Twist	Dickens, Charles	10.5	157966	Criminals -- Fiction,Orphans -- Fiction,Bildungsromans,London (England) -- Fiction,Kidnapping victims -- Fiction,Boys -- Fiction
+526	Heart of Darkness	Conrad, Joseph	9	37926	Africa -- Fiction,Psychological fiction,Imperialism -- Fiction,Trading posts -- Fiction,Europeans -- Africa -- Fiction,Degeneration -- fiction
+10609	English Literature: Its History and Its Significance for the Life of the English-Speaking World	Long, William J. (William Joseph)	15	210885	English literature -- History and criticism
+375	An Occurrence at Owl Creek Bridge	Bierce, Ambrose	10.8	3744	Short stories;United States -- History -- Civil War, 1861-1865 -- Fiction;Prisoners -- Fiction
+7370	Second Treatise of Government	Locke, John	27.9	56543	Toleration -- Early works to 1800,Liberty -- Early works to 1800,Political science -- Early works to 1800
+10	The King James Version of the Bible	Unknown	13.6	821130	Bible
+30360	My Secret Life, Volumes I. to III.: 1888 Edition	Anonymous	8	260851	Pornography,Sex addicts -- Biography,Erotic literature
+55	The Wonderful Wizard of Oz	Baum, L. Frank (Lyman Frank)	8.7	39588	Fantasy,Oz (Imaginary place) -- Fiction
+34901	On Liberty	Mill, John Stuart	20.5	52040	Liberty
+2852	The Hound of the Baskervilles	Doyle, Arthur Conan	8	59122	Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction;Private investigators -- England -- Fiction;Blessing and cursing -- Fiction;Dogs -- Fiction;Dartmoor (England) -- Fiction
+308	Three Men in a Boat	Jerome, Jerome K. (Jerome Klapka)	10	66828	Male friendship -- Fiction;Thames River (England) -- Fiction;Boats and boating -- England -- Thames River -- Fiction;Dogs -- Fiction;Humorous stories, English;Young men -- Travel -- England -- Thames River -- Fiction
+12	Through the Looking-Glass	Carroll, Lewis	8.3	29170	Fantasy
+35	The Time Machine	Wells, H. G. (Herbert George)	9.3	32298	Science fiction,Dystopias -- Fiction,Time travel -- Fiction
+15399	The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself	Equiano, Olaudah	14.8	82531	Slaves -- United States -- Biography;Slaves -- Great Britain -- Biography;Equiano, Olaudah, 1745-1797
+140	The Jungle	Sinclair, Upton	12	149118	Immigrants -- Fiction,Political fiction,Meat industry and trade -- Fiction,Lithuanian Americans -- Fiction,Chicago (Ill.) -- Fiction,Stockyards -- Fiction,Working class -- Fiction
+31284	Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzahlt	Salten, Felix	9.3	67852	Erotic stories, German
+205	Walden, and On The Duty Of Civil Disobedience	Thoreau, Henry David	14.5	115646	Civil disobedience;Solitude;Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods;Government, Resistance to;Natural history -- Massachusetts -- Walden Woods;Wilderness areas -- Massachusetts -- Walden Woods;Authors, American -- 19th century -- Biography;Walden Woods (Mass.) -- Social life and customs
+786	Hard Times	Dickens, Charles	9.1	103230	England -- Fiction,Political fiction,Education -- Fiction,Utilitarianism -- Fiction,Social problems -- Fiction,Domestic fiction
+28054	The Brothers Karamazov	Dostoyevsky, Fyodor	8.1	350214	Brothers -- Fiction,Fathers and sons -- Fiction,Didactic fiction,Russia -- Social life and customs -- 1533-1917 -- Fiction
+815	Democracy in America - Volume 1	Tocqueville, Alexis de	18.7	190451	United States -- Social conditions,Democracy -- United States,United States -- Politics and government
+3090	Complete Original Short Stories of Guy De Maupassant	Maupassant, Guy de	9.8	490717	Short stories, French -- Translations into English
+22577	Practical Grammar and Composition	Wood, Thomas	8.6	63677	English language -- Composition and exercises;English language -- Grammar -- Problems, exercises, etc.
+766	David Copperfield	Dickens, Charles	9.4	354823	England -- Social life and customs -- 19th century -- Fiction,Bildungsromans,Orphans -- Fiction,Child labor -- Fiction,Autobiographical fiction,England -- Fiction,Young men -- Fiction,Boys -- Fiction,Stepfathers -- Fiction
+851	Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson	Rowlandson, Mary White	11.8	20204	Lancaster (Mass.) -- History -- Colonial period, ca. 1600-1775;King Philip's War, 1675-1676;Massachusetts -- Biography;Indian captivities -- Massachusetts;Rowlandson, Mary White, approximately 1635-1711
+203	Uncle Tom's Cabin	Stowe, Harriet Beecher	10.3	180551	Plantation life -- Fiction,Slavery -- Fiction,Uncle Tom (Fictitious character) -- Fiction,African Americans -- Fiction,Political fiction,Master and servant -- Fiction,Fugitive slaves -- Fiction,Southern States -- Fiction,Slaves -- Fiction,Didactic fiction
+30601	How to Analyze People on Sight: Through the Science of Human Analysis: The Five Human Types	Benedict, Ralph Paine	12.5	60336	Characters and characteristics
+41	The Legend of Sleepy Hollow	Irving, Washington	19.1	12214	Ghosts -- Fiction,New York (State) -- History -- 1775-1865 -- Fiction
+103	Around the World in Eighty Days	Verne, Jules	11.2	63266	Voyages around the world -- Fiction,Adventure stories
+1399	Anna Karenina	Tolstoy, Leo, graf	9.9	349769	Russia -- Fiction,Adultery -- Fiction,Married women -- Fiction,Didactic fiction,Love stories
+863	The Mysterious Affair at Styles	Christie, Agatha	7.4	56518	Belgians -- England -- Fiction;Private investigators -- England -- Fiction;Detective and mystery stories;Poirot, Hercule (Fictitious character) -- Fiction
+215	The Call of the Wild	London, Jack	10.3	31821	Pet theft -- Fiction,Animal welfare -- Fiction,Klondike River Valley (Yukon) -- Fiction,Feral dogs -- Fiction,Dogs -- Fiction,Adventure stories,Nature stories,Sled dogs -- Fiction
+45	Anne of Green Gables	Montgomery, L. M. (Lucy Maud)	7.9	102511	Friendship -- Fiction;Country life -- Prince Edward Island -- Fiction;Orphans -- Fiction;Bildungsromans;Prince Edward Island -- History -- 20th century -- Fiction;Canada -- History -- 1867-1914 -- Fiction;Shirley, Anne (Fictitious character) -- Fiction;Girls -- Fiction;Islands -- Fiction
+105	Persuasion	Austen, Jane	12.8	83284	Ship captains -- Fiction,First loves -- Fiction,Regency fiction,Rejection (Psychology) -- Fiction,England -- Social life and customs -- 19th century -- Fiction,Young women -- Fiction,Psychological fiction,Dysfunctional families -- Fiction,Motherless families -- Fiction,Love stories
+996	Don Quixote	Cervantes Saavedra, Miguel de	23.2	425899	Picaresque literature,Spain -- Social life and customs -- 16th century -- Fiction,Knights and knighthood -- Spain -- Fiction,Romances
+852	Democracy and Education: An Introduction to the Philosophy of Education	Dewey, John	15.3	135857	Education -- Social aspects,Education -- Philosophy
+4217	A Portrait of the Artist as a Young Man	Joyce, James	9.2	84793	Autobiographical fiction,Artists -- Fiction,Bildungsromans,Dublin (Ireland) -- Fiction,Young men -- Fiction
+779	The Tragical History of Doctor Faustus: From the Quarto of 1604	Marlowe, Christopher	10.1	19693	Faust, -approximately 1540 -- Drama;Tragedies;Germany -- Drama;Magicians -- Drama
+4517	Ethan Frome	Wharton, Edith	10.2	34710	New England -- Fiction,Accident victims -- Fiction,Triangles (Interpersonal relations) -- Fiction,Rural poor -- Fiction,Married people -- Fiction,Domestic fiction
+20	Paradise Lost	Milton, John	27	79996	Eve (Biblical figure) -- Poetry,Bible. Genesis -- History of Biblical events -- Poetry,Fall of man -- Poetry,Adam (Biblical figure) -- Poetry
+1112	The Tragedy of Romeo and Juliet	Shakespeare, William	6.6	25896	Vendetta -- Drama,Verona (Italy) -- Drama,Conflict of generations -- Drama,Juliet (Fictitious character) -- Drama,Romeo (Fictitious character) -- Drama,Youth -- Drama
+2130	Utopia	More, Thomas, Saint	27.8	43482	Utopias -- Early works to 1800
+22381	Myths and Legends of Ancient Greece and Rome	Berens, E. M.	15.4	106324	Mythology, Classical
+28520	Forbidden Fruit: Luscious and exciting story and More forbidden fruit or; Master Percy's progress in and beyond the domestic circle	Anonymous	12.7	32090	Erotic stories
+147	Common Sense	Paine, Thomas	17	21983	United States -- Politics and government -- 1775-1783,Monarchy -- Early works to 1800,Political science -- Early works to 1800
+121	Northanger Abbey	Austen, Jane	11.8	77140	Gentry -- England -- Fiction,Horror tales -- Appreciation -- Fiction,Books and reading -- Fiction,Satire,Gothic fiction (Literary genre),England -- Social life and customs -- 19th century -- Fiction,England -- Fiction,Marriage -- Economic aspects -- Fiction,Young women -- Fiction,Love stories
+33	The Scarlet Letter	Hawthorne, Nathaniel	14	83625	Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction;Revenge -- Fiction;Married women -- Fiction;Adultery -- Fiction;Triangles (Interpersonal relations) -- Fiction;Women immigrants -- Fiction;Illegitimate children -- Fiction;Historical fiction;Psychological fiction;Clergy -- Fiction;Puritans -- Fiction
+61	The Communist Manifesto	Engels, Friedrich	17.2	11444	Socialism,Communism
+209	The Turn of the Screw	James, Henry	8.8	42259	Governesses -- Fiction,England -- Fiction,Children -- Fiction,Ghost stories,Psychological fiction
+7700	Lysistrata	Aristophanes	9.4	14468	Women and peace -- Drama;Aristophanes -- Translations into English;Lysistrata (Fictitious character) -- Drama;Peace movements -- Drama;Greece -- History -- Peloponnesian War, 431-404 B.C. -- Drama;Greek drama (Comedy) -- Translations into English;Comedies
+408	The Souls of Black Folk	Du Bois, W. E. B. (William Edward Burghardt)	15.1	68674	African Americans
+2413	Madame Bovary	Flaubert, Gustave	10.5	115638	Domestic fiction,Married women -- Fiction,Middle class -- Fiction,Suicide victims -- Fiction,Physicians' spouses -- Fiction,France -- Fiction,Adultery -- Fiction
+10676	The Reign of Greed	Rizal, Jose	12.8	115145	Philippine fiction (Spanish) -- Translations into English,Nationalists -- Philippines -- Fiction,Philippines -- History -- Fiction
+4093	Hedda Gabler	Ibsen, Henrik	8.3	29886	Norwegian drama -- Translations into English,Man-woman relationships -- Drama,Identity (Psychology) -- Drama,Women -- Social conditions -- Drama
+108	The Return of Sherlock Holmes	Doyle, Arthur Conan	7.8	112117	Detective and mystery stories, English;Holmes, Sherlock (Fictitious character) -- Fiction
+1251	Le Morte d'Arthur: Volume 1	Malory, Thomas, Sir	13.3	168802	Arthur, King -- Legends;Arthurian romances
+2147	The Works of Edgar Allan Poe - Volume 1	Poe, Edgar Allan	13.3	90289	Fantasy fiction;American fiction -- 19th century;Horror tales, American;Poe, Edgar Allan, 1809-1849
+21700	Don Juan	Byron, George Gordon Byron, Baron	20.2	125740	Don Juan (Legendary character) -- Poetry
+36	The War of the Worlds	Wells, H. G. (Herbert George)	10.8	59928	War stories,Mars (Planet) -- Fiction,Science fiction,Martians -- Fiction,Space warfare -- Fiction,Life on other planets -- Fiction,Imaginary wars and battles -- Fiction
+141	Mansfield Park	Austen, Jane	11.7	159540	Country homes -- Fiction,Adoptees -- Fiction,Children of the rich -- Fiction,Uncles -- Fiction,Cousins -- Fiction,England -- Fiction,Domestic fiction,Young women -- Fiction,Love stories
+2781	Just So Stories	Kipling, Rudyard	9.8	28785	Animals -- Fiction;Children's stories, English;Short stories
+145	Middlemarch	Eliot, George	11.1	316294	City and town life -- Fiction,Bildungsromans,England -- Fiction,Married people -- Fiction,Domestic fiction,Didactic fiction,Young women -- Fiction,Love stories
+1998	Thus Spake Zarathustra: A Book for All and None	Nietzsche, Friedrich Wilhelm	10.3	110904	Philosophy,Superman (Philosophical concept)
+2680	Meditations	Marcus Aurelius, Emperor of Rome	13.4	72026	Life,Ethics,Stoics
+1228	On the Origin of Species By Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life	Darwin, Charles	18.2	155427	Evolution (Biology),Natural selection
+14591	Faust	Goethe, Johann Wolfgang von	10.2	36990	Legends -- Germany -- Drama;Magicians -- Drama;German poetry -- Translations into English;Faust, -approximately 1540 -- Drama
+3300	An Inquiry into the Nature and Causes of the Wealth of Nations	Smith, Adam	18.2	380565	Economics
+14838	The Tale of Peter Rabbit	Potter, Beatrix	10.6	1011	Rabbits -- Juvenile fiction
+35123	The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society	Hartley, Florence	13	85929	Etiquette for women;Formulas, recipes, etc.;Etiquette -- United States -- Handbooks, manuals, etc.
+4705	A Treatise of Human Nature	Hume, David	18.5	225719	Knowledge, Theory of
+514	Little Women	Alcott, Louisa May	10.1	186040	New England -- Fiction,Sisters -- Fiction,Bildungsromans,Autobiographical fiction,Family life -- New England -- Fiction,Young women -- Fiction,March family (Fictitious characters) -- Fiction,Domestic fiction,Mothers and daughters -- Fiction
+5827	The Problems of Philosophy	Russell, Bertrand	15.7	42752	Metaphysics;Knowledge, Theory of;Philosophy -- Introductions
+1023	Bleak House	Dickens, Charles	9.1	353471	Bildungsromans,Illegitimate children -- Fiction,London (England) -- Fiction,Guardian and ward -- Fiction,Legal stories,Inheritance and succession -- Fiction,Domestic fiction,Young women -- Fiction
+2148	The Works of Edgar Allan Poe - Volume 2	Poe, Edgar Allan	13.5	95020	Fantasy fiction;American fiction -- 19th century;Horror tales, American;Short stories
+972	The Devil's Dictionary	Bierce, Ambrose	12.1	60117	Vocabulary -- Humor,English language -- Semantics -- Humor,English language -- Dictionaries -- Humor
+132	The Art of War	Sunzi, active 6th century B.C.	12.2	53931	Military art and science -- Early works to 1800,War -- Early works to 1800
+4280	The Critique of Pure Reason	Kant, Immanuel	21.2	208005	Philosophy, German;Causation;Reason;Knowledge, Theory of
+25305	Memoirs Of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749)	Cleland, John	26.5	84602	Prostitutes -- Fiction,England -- Fiction,Erotic stories
+14264	The Practice and Science of Drawing	Speed, Harold	14.4	76540	Drawing
+2097	The Sign of the Four	Doyle, Arthur Conan	7.6	43012	Private investigators -- England -- Fiction;Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction
+1727	The Odyssey: Rendered into English prose for the use of those who cannot read the original	Homer	14.1	129408	Epic poetry, Greek -- Translations into English;Odysseus (Greek mythology);Homer -- Translations into English
+62	A Princess of Mars	Burroughs, Edgar Rice	15.1	67407	Princesses -- Fiction;Dejah Thoris (Fictitious character) -- Fiction;Carter, John (Fictitious character) -- Fiction;Mars (Planet) -- Fiction;Science fiction
+15250	Myths and Legends of China	Werner, E. T. C. (Edward Theodore Chalmers)	13	118826	Tales -- China;Legends -- China;Mythology, Chinese
+1257	The Three Musketeers	Dumas, Alexandre	9.9	229258	France -- History -- Louis XIII, 1610-1643 -- Fiction;Adventure and adventurers -- Fiction;Swordsmen -- Fiction;Historical fiction
+21279	2 B R 0 2 B	Vonnegut, Kurt	7.3	2564	Science fiction,Short stories
+2527	The Sorrows of Young Werther	Goethe, Johann Wolfgang von	10.4	42490	Unrequited love -- Fiction,Young men -- Germany -- Fiction,Germany -- Social life and customs -- Fiction
+583	The Woman in White	Collins, Wilkie	9.9	244709	Country homes -- Fiction,Psychological fiction,Art teachers -- Fiction,Nobility -- Fiction,Deception -- Fiction,Gothic fiction (Literary genre),England -- Fiction,Psychiatric hospital patients -- Fiction,Inheritance and succession -- Fiction,Love stories
+600	Notes from the Underground	Dostoyevsky, Fyodor	9.2	43966	Political fiction,Russia -- Officials and employees -- Fiction,Russia -- History -- 1801-1917 -- Fiction
+18251	Latin for Beginners	D'Ooge, Benjamin L. (Benjamin Leonard)	12.3	103202	Latin language -- Grammar -- Problems, exercises, etc.
+834	The Memoirs of Sherlock Holmes	Doyle, Arthur Conan	8.5	87586	Private investigators -- England -- Fiction;Detective and mystery stories, English;Holmes, Sherlock (Fictitious character) -- Fiction
+25717	The History Of The Decline And Fall Of The Roman Empire: Table of Contents with links in the HTML file to the two; Project Gutenberg editions (12 volumes)	Gibbon, Edward	11.4	9538	Rome -- History -- Empire, 30 B.C.-476 A.D.;Byzantine Empire -- History -- To 527;Indexes
+7849	The Trial	Kafka, Franz	9.1	83946	Social problems -- Fiction
+1524	Hamlet, Prince of Denmark	Shakespeare, William	9.4	31677	Hamlet (Legendary character) -- Drama,Tragedies,Murder victims' families -- Drama,Princes -- Drama,Denmark -- Drama,Fathers -- Death -- Drama,Revenge -- Drama,Kings and rulers -- Succession -- Drama
+10625	A Concise Dictionary of Middle English from A.D. 1150 to 1580	Skeat, Walter W. (Walter William)	12.5	168326	English language -- Middle English, 1100-1500 -- Dictionaries
+51245	Journal of Small Things	Mackay, Helen	7.8	58530	
+289	The Wind in the Willows	Grahame, Kenneth	10.6	58401	Country life -- Fiction,Humorous stories,Pastoral fiction,England -- Fiction,Fantasy fiction,Animals -- Fiction,Friendship -- Fiction,River life -- Fiction
+110	Tess of the d'Urbervilles: A Pure Woman	Hardy, Thomas	10.9	148537	Pastoral fiction,Wessex (England) -- Fiction,Children of clergy -- Fiction,Children of the rich -- Fiction,Triangles (Interpersonal relations) -- Fiction,Poor families -- Fiction,Women household employees -- Fiction,Man-woman relationships -- Fiction,Women murderers -- Fiction,Rape victims -- Fiction,Didactic fiction
+2264	Macbeth	Shakespeare, William	9.9	18412	Scotland -- Kings and rulers -- Drama;Tragedies;Macbeth, King of Scotland, active 11th century -- Drama;Regicides -- Drama
+37134	The Elements of Style	Strunk, William	11.9	13871	Report writing,English language -- Style,English language -- Rhetoric
+885	An Ideal Husband	Wilde, Oscar	6.3	30887	London (England) -- Drama,Comedies
+2000	Don Quijote	Cervantes Saavedra, Miguel de	20.9	381225	Picaresque literature,Spain -- Social life and customs -- 16th century -- Fiction,Knights and knighthood -- Spain -- Fiction,Romances
+1837	The Prince and the Pauper	Twain, Mark	12	69972	Edward VI, King of England, 1537-1553 -- Fiction;Princes -- Fiction;Social classes -- Fiction;Poor children -- Fiction;London (England) -- Fiction;Impostors and imposture -- Fiction;Historical fiction;Lookalikes -- Fiction;Boys -- Fiction
+4276	North and South	Gaskell, Elizabeth Cleghorn	9.2	181508	Children of clergy -- Fiction;Bildungsromans;Social classes -- Fiction;Didactic fiction;Young women -- Fiction;England, Northern -- Fiction;Mothers and daughters -- Fiction
+5131	Childe Harold's Pilgrimage	Byron, George Gordon Byron, Baron	17.9	37406	Pilgrims and pilgrimages -- Europe -- Poetry,Voyages and travels -- Poetry,English poetry
+10800	The Anatomy of Melancholy	Burton, Robert	16.2	545013	Melancholy -- Early works to 1800
+5000	The Notebooks of Leonardo Da Vinci - Complete	Leonardo, da Vinci	12.7	249345	Leonardo, da Vinci, 1452-1519 -- Notebooks, sketchbooks, etc.
+1597	Andersen's Fairy Tales	Andersen, H. C. (Hans Christian)	9.7	55394	Fairy tales -- Denmark;Fairy tales;Children's stories, Danish -- Translations into English
+51246	Great Disasters and Horrors in the World's History	Godbey, Allen Howard	12.8	145545	
+10623	Plays	Glaspell, Susan	7	57186	American drama
+51247	Dead End	Macfarlane, Wallace	9.5	4048	
+28233	Philosophiae Naturalis Principia Mathematica	Newton, Isaac, Sir	17.3	120406	Celestial mechanics -- Early works to 1800,Mechanics -- Early works to 1800
+3296	The Confessions of St. Augustine	Augustine, Saint, Bishop of Hippo	15.3	111824	Catholic Church -- Bishops -- Biography;Bishops -- Algeria -- Hippo (Extinct city) -- Biography;Augustine, Saint, Bishop of Hippo;Christian saints -- Algeria -- Hippo (Extinct city) -- Biography
+7178	Swann's Way	Proust, Marcel	19.5	195216	Autobiographical fiction,Villages -- France -- Fiction,France -- Social life and customs -- 19th century -- Fiction
+45631	Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana	Northup, Solomon	12.3	81946	Slaves -- United States -- Biography;Plantation life -- Louisiana -- History -- 19th century;Northup, Solomon, 1808-1863?;Slaves' writings, American;African Americans -- Biography;Slavery -- Louisiana -- History -- 19th century
+1754	The Sea-Gull	Chekhov, Anton Pavlovich	6.4	18923	Russia -- Social life and customs -- Drama;Authors, Russian -- 19th century -- Drama;Russian drama -- Translations into English;Man-woman relationships -- Drama
+51249	Spacemen Die at Home	Ludwig, Edward W.	6.4	4803	
+1155	The Secret Adversary	Christie, Agatha	6.7	75285	Beresford, Tommy (Fictitious character) -- Fiction;Detective and mystery stories;Private investigators -- England -- Fiction;Beresford, Tuppence (Fictitious character) -- Fiction;Missing persons -- Fiction;Married people -- Fiction;Domestic fiction
+20239	The Ten Books on Architecture	Vitruvius Pollio	14.5	100866	Architecture -- Early works to 1800
+8789	The vision of hell	Dante Alighieri	12.7	36498	Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English;Hell -- Poetry
+20228	Noli Me Tangere	Rizal, Jose	16.4	174826	Philippines -- History -- 1812-1898 -- Fiction,Historical fiction
+2067	Beasts, Men and Gods	Ossendowski, Ferdynand Antoni	11.1	81057	Communism -- Soviet Union,Mongolia -- Description and travel
+696	The Castle of Otranto	Walpole, Horace	10.8	36600	Inheritance and succession -- Fiction,Gothic fiction (Literary genre),Horror tales
+9622	Lyrical Ballads, With a Few Other Poems (1798)	Wordsworth, William	12	21451	English poetry -- 18th century
+155	The Moonstone	Collins, Wilkie	8.6	194758	Country homes -- Fiction,Jewelry theft -- Fiction,Police -- England -- Fiction,England -- Fiction,East Indians -- England -- Fiction,Mystery fiction
+932	The Fall of the House of Usher	Poe, Edgar Allan	17.4	7064	Gothic fiction (Literary genre),Short stories,Horror tales
+541	The Age of Innocence	Wharton, Edith	11.3	101308	Upper class -- Fiction,Separated people -- Fiction,Triangles (Interpersonal relations) -- Fiction,Married people -- Fiction,New York (N.Y.) -- Fiction,Domestic fiction,Love stories
+228	The Aeneid	Virgil	14.3	106461	Legends -- Rome -- Poetry;Aeneas (Legendary character) -- Poetry;Epic poetry, Latin -- Translations into English
+12122	The Monkey's Paw: The Lady of the Barge and Others, Part 2.	Jacobs, W. W. (William Wymark)	7.8	3953	Wishes -- Fiction,Horror tales
+19033	Alice's Adventures in Wonderland	Carroll, Lewis	8.7	9721	Fantasy
+113	The Secret Garden	Burnett, Frances Hodgson	7	80712	People with disabilities -- Fiction,Gardens -- Fiction,Orphans -- Fiction,Yorkshire (England) -- Fiction
+7142	The History of the Peloponnesian War	Thucydides	21.9	205021	Greece -- History -- Peloponnesian War, 431-404 B.C.
+86	A Connecticut Yankee in King Arthur's Court	Twain, Mark	10.8	117534	Britons -- Fiction,Time travel -- Fiction,Fantasy fiction,Satire,Kings and rulers -- Fiction,Arthurian romances -- Adaptations,Americans -- Great Britain -- Fiction,Knights and knighthood -- Fiction
+51244	The Livestock Producer and Armour	Unknown	16.3	6350	Packing-house products,Animal industry -- United States
+10007	Carmilla	Le Fanu, Joseph Sheridan	11	28033	Vampires -- Fiction,Young women -- Fiction
+8525	Eve's Diary, Complete	Twain, Mark	8.4	6780	Diary fiction,Humorous stories,Eve (Biblical figure) -- Fiction,Bible. Genesis -- History of Biblical events -- Fiction
+3800	Ethics	Spinoza, Benedictus de	14.3	87939	Ethics
+1250	Anthem	Rand, Ayn	6.5	19127	Men -- Psychology -- Fiction,Psychological fiction,Time travel -- Fiction,Science fiction,Love stories,Individuality -- Fiction
+2641	A Room with a View	Forster, E. M. (Edward Morgan)	7.5	66574	England -- Fiction,British -- Italy -- Fiction,Humorous stories,Young women -- Fiction,Florence (Italy) -- Fiction
+8799	The Divine Comedy by Dante, Illustrated, Paradise, Complete	Dante Alighieri	16.3	35436	Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English
+12299	The Mechanical Properties of Wood: Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing	Record, Samuel J. (Samuel James)	12.7	49209	Wood,Wood -- Testing
+6124	Pamela, or Virtue Rewarded	Richardson, Samuel	10.1	221390	Virtue -- Fiction,Epistolary fiction,Kidnapping victims -- Fiction,Didactic fiction,Women household employees -- Fiction,England -- Fiction,Master and servant -- Fiction
+805	This Side of Paradise	Fitzgerald, F. Scott (Francis Scott)	10.2	80780	College students -- Fiction;Children of the rich -- Fiction;Bildungsromans;World War, 1914-1918 -- Veterans -- Fiction;Advertising -- Fiction;Young men -- Fiction;Love stories
+902	The Happy Prince, and Other Tales	Wilde, Oscar	8.1	16358	Short stories, English;Children's stories, English;Fairy tales
+3176	The Innocents Abroad	Twain, Mark	12.6	193159	Voyages and travels,Middle East -- Description and travel,Europe -- Description and travel
+2428	An Essay on Man; Moral Essays and Satires	Pope, Alexander	12.4	46813	English poetry -- 18th century
+102	The Tragedy of Pudd'nhead Wilson	Twain, Mark	10.5	53063	Trials (Murder) -- Fiction,Missouri -- Fiction,Race relations -- Fiction,Infants switched at birth -- Fiction,Impostors and imposture -- Fiction,Passing (Identity) -- Fiction,Legal stories
+1600	Symposium	Plato	15.8	32587	Classical literature;Philosophy, Ancient;Socrates, 470 BC-399 BC;Love -- Early works to 1800
+39293	The Gentlemen's Book of Etiquette and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society	Hartley, Cecil B.	14	89603	Etiquette for men,Etiquette,Men -- Conduct of life
+51295	The Man Who Was Six	Wallace, F. L. (Floyd L.)	7.1	14531	
+31	Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone	Sophocles	9.2	37390	Antigone (Mythological character) -- Drama,Greek drama (Tragedy) -- Translations into English,Oedipus (Greek mythological figure) -- Drama,Tragedies
+73	The Red Badge of Courage: An Episode of the American Civil War	Crane, Stephen	7.9	46088	Virginia -- History -- Civil War, 1861-1865 -- Fiction;War stories;United States -- History -- Civil War, 1861-1865 -- Fiction;Historical fiction;Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction
+17306	The Condition of the Working-Class in England in 1844: with a Preface written in 1892	Engels, Friedrich	16.9	116909	Working class -- Great Britain,Great Britain -- Economic conditions
+1001	Divine Comedy, Longfellow's Translation, Hell	Dante Alighieri	14.8	38266	Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English;Hell -- Poetry
+1254	Cyrano de Bergerac	Rostand, Edmond	8.7	34675	France -- History -- 17th century -- Drama;Authors, French -- 17th century -- Drama;Cyrano de Bergerac, 1619-1655 -- Drama
+2265	Hamlet	Shakespeare, William	8.9	30269	Hamlet (Legendary character) -- Drama,Tragedies,Murder victims' families -- Drama,Princes -- Drama,Denmark -- Drama,Fathers -- Death -- Drama,Revenge -- Drama,Kings and rulers -- Succession -- Drama
+59	Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences	Descartes, Rene	40.7	23024	Methodology,Science -- Methodology
+447	Maggie: A Girl of the Streets	Crane, Stephen	8	22924	Slums -- Fiction,Poor women -- Fiction,Psychological fiction,Prostitutes -- Fiction,Poor families -- Fiction,Suicide victims -- Fiction,New York (N.Y.) -- Fiction
+51248	The Library of Entertainment Handbook	Scammell, John Chilton	12.2	52587	Literature -- Collections
+164	Twenty Thousand Leagues under the Sea	Verne, Jules	9.8	103035	Submarines (Ships) -- Fiction,Science fiction,Sea stories,Underwater exploration -- Fiction
+8492	The King in Yellow	Chambers, Robert W. (Robert William)	9.4	71562	Short stories, American;Horror tales, American;United States -- Social life and customs -- 19th century -- Fiction
+38427	The World as Will and Idea (Vol. 1 of 3)	Schopenhauer, Arthur	21.5	200540	Will;Philosophy;Idea (Philosophy);Knowledge, Theory of
+36542	The American Occupation of the Philippines 1898-1912	Blount, James H. (James Henderson)	16.3	194573	Philippines -- Politics and government -- 1898-1935,Philippines -- History -- 1898-1946
+2383	The Canterbury Tales, and Other Poems	Chaucer, Geoffrey	15.9	279127	Chaucer, Geoffrey, -1400;English poetry;Christian pilgrims and pilgrimages -- Poetry
+8164	My Man Jeeves	Wodehouse, P. G. (Pelham Grenville)	6.4	50731	Humorous stories;Valets -- Fiction;Jeeves (Fictitious character) -- Fiction;Wooster, Bertie (Fictitious character) -- Fiction;England -- Fiction;Single men -- Fiction
+15272	Spenser's The Faerie Queene, Book I	Spenser, Edmund	13.1	74391	Virtues -- Poetry,Knights and knighthood -- Poetry
+1097	Mrs. Warren's Profession	Shaw, Bernard	8.5	34687	Prostitution -- Great Britain -- Drama,Working class women -- Great Britain -- Drama,Prostitutes -- Great Britain -- Drama,Great Britain -- Social conditions -- 19th century -- Drama
+18269	Pascal's Pensees	Pascal, Blaise	10.9	110771	Apologetics,Philosophy
+6852	Venus in Furs	Sacher-Masoch, Leopold, Ritter von	8.7	41936	Erotic stories,Sadomasochism -- Fiction
+12753	The Legends of King Arthur and His Knights	Knowles, James, Sir	13.1	93648	Arthur, King -- Legends;Knights and knighthood -- Folklore;Folklore -- England;Arthurian romances -- Adaptations
+5225	The Satyricon - Complete	Petronius Arbiter	14.3	98005	Rome -- Fiction;Satire, Latin -- Translations into English
+131	The Pilgrim's Progress from this world to that which is to come: Delivered under the similitude of a dream, by John Bunyan	Bunyan, John	12	58049	Christian fiction,Christian pilgrims and pilgrimages -- Fiction
+421	Kidnapped	Stevenson, Robert Louis	10	81861	Adventure and adventurers -- Fiction,Kidnapping -- Fiction,Scotland -- History -- 18th century -- Fiction,Historical fiction
+1946	On War - Volume 1	Clausewitz, Carl von	19.7	107354	Military art and science,War
+3913	The Confessions of Jean Jacques Rousseau - Complete	Rousseau, Jean-Jacques	16.4	275047	Rousseau, Jean-Jacques, 1712-1778;Authors, French -- 18th century -- Biography
+22367	Die Verwandlung	Kafka, Franz	18	19180	Psychological fiction,Metamorphosis -- Fiction
+2638	The Idiot	Dostoyevsky, Fyodor	9	241531	Russia -- Social conditions -- 1801-1917 -- Fiction,Historical fiction
+51391	Famous Impostors	Stoker, Bram	14.1	78507	
+43	The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson, Robert Louis	10.8	25585	Self-experimentation in medicine -- Fiction,Psychological fiction,Multiple personality -- Fiction,Physicians -- Fiction,London (England) -- Fiction,Science fiction,Horror tales
+51240	The Addicts	Samachson, Joseph	7.5	3614	
+139	The Lost World	Doyle, Arthur Conan	9.7	75759	Challenger, Professor (Fictitious character) -- Fiction;Fantasy fiction;Prehistoric peoples -- Fiction;Dinosaurs -- Fiction;South America -- Fiction
+245	Life on the Mississippi	Twain, Mark	11.4	144374	Mississippi River -- Description and travel;Mississippi River Valley -- Social life and customs -- 19th century;Authors, American -- 19th century -- Biography;Pilots and pilotage -- Mississippi River;Twain, Mark, 1835-1910 -- Travel -- Mississippi River
+9662	An Enquiry Concerning Human Understanding	Hume, David	18.5	57801	Ethics;Knowledge, Theory of
+51233	The Marching Morons	Kornbluth, C. M. (Cyril M.)	9.7	11054	
+23700	The Decameron of Giovanni Boccaccio	Boccaccio, Giovanni	22.3	307841	Plague -- Europe -- History -- Fiction,Allegories,Frame-stories,Storytelling -- Fiction
+3420	A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects	Wollstonecraft, Mary	19.3	86456	Women's rights -- Great Britain,Women -- History -- 19th century,Women -- Education -- Great Britain,Feminism
+78	Tarzan of the Apes	Burroughs, Edgar Rice	11.4	85520	Africa -- Fiction,Tarzan (Fictitious character) -- Fiction,Fantasy fiction,Wild men -- Fiction,British -- Africa -- Fiction,Adventure stories
+14975	Southern Horrors: Lynch Law in All Its Phases	Wells-Barnett, Ida B.	12.6	9664	Lynching
+1756	Uncle Vanya: Scenes from Country Life in Four Acts	Chekhov, Anton Pavlovich	6.1	16449	Russia -- Social life and customs -- Drama,Country life -- Russia -- Drama,Russian drama -- Translations into English,Families -- Russia -- Drama
+6737	The Social Cancer: A Complete English Version of Noli Me Tangere	Rizal, Jose	11.2	175846	Philippines -- History -- 1812-1898 -- Fiction,Historical fiction
+1200	Gargantua and Pantagruel	Rabelais, Francois	15.1	319655	Giants -- Fiction;Fantasy fiction, French -- Translations into English;Gargantua (Legendary character) -- Fiction
+25141	The Pursuit of God	Tozer, A. W. (Aiden Wilson)	10	29217	Spirituality,God (Christianity) -- Worship and love
+1404	The Federalist Papers	Jay, John	19.2	192349	Constitutional law -- United States,Constitutional history -- United States -- Sources
+1079	The Life and Opinions of Tristram Shandy, Gentleman	Sterne, Laurence	19.5	178843	Fiction -- Authorship -- Fiction,Infants -- Fiction,Fetus -- Fiction,Experimental fiction,Stream of consciousness fiction
+14005	The Ladies Delight	Anonymous	25.2	4863	Erotic literature;Heidegger, John James, 1659?-1748;Penis -- Poetry
+6400	The Lives of the Twelve Caesars, Complete	Suetonius	16.7	233339	Rome -- History -- Empire, 30 B.C.-284 A.D.;Emperors -- Rome -- Biography -- Early works to 1800
+3177	Roughing It	Twain, Mark	12.8	166160	West (U.S.) -- Description and travel;West (U.S.) -- Intellectual life -- 19th century;Authors, American -- Homes and haunts -- West (U.S.);Twain, Mark, 1835-1910 -- Travel -- West (U.S.)
+32032	Second Variety	Dick, Philip K.	6	15237	Science fiction,War stories,Robots -- Fiction
+51241	Bridge Crossing	Dryfoos, Dave	7.9	4852	
+34206	The Thousand and One Nights, Vol. I.: Commonly Called the Arabian Nights' Entertainments	Unknown	14.6	262842	Tales -- Arab countries,Fairy tales
+14328	The Consolation of Philosophy	Boethius	13.2	42688	Philosophy and religion,Happiness
+41617	A Complete Guide to Heraldry	Fox-Davies, Arthur Charles	15.6	270070	Heraldry -- Great Britain
+17161	Max und Moritz: Eine Bubengeschichte in sieben Streichen	Busch, Wilhelm	13.7	2540	Children's poetry, German;Practical jokes -- Juvenile poetry;Wit and humor
+1974	The Poetics of Aristotle	Aristotle	13	15111	Aesthetics -- Early works to 1800,Poetry -- Early works to 1800
+8121	Ghosts	Ibsen, Henrik	7	24250	Norwegian drama -- Translations into English
+12116	Struwwelpeter: Merry Stories and Funny Pictures	Hoffmann, Heinrich	9.6	2362	Children -- Conduct of life -- Juvenile fiction;Children's stories, German -- Translations into English;Children's poetry, German -- Translations into English;Stories in rhyme;Picture books for children;Behavior -- Fiction
+31547	Youth	Asimov, Isaac	6.6	10067	Human-alien encounters -- Fiction,Science fiction
+1858	Plain Tales from the Hills	Kipling, Rudyard	10.2	71634	India -- History -- British occupation, 1765-1947 -- Fiction;British -- India -- Fiction
+5230	The Invisible Man: A Grotesque Romance	Wells, H. G. (Herbert George)	8.1	48484	Mentally ill -- Fiction,Science fiction,Scientists -- Fiction,Psychological fiction
+11224	Utilitarianism	Mill, John Stuart	21.6	27608	Utilitarianism
+31552	Novo dicionario da lingua portuguesa	Figueiredo, Candido de	14.5	1753991	Portuguese language -- Dictionaries
+269	Beasts and Super-Beasts	Saki	11.9	61732	Short stories, English;Humorous stories;Supernatural -- Fiction
+41873	The History of Prostitution: Its Extent, Causes, and Effects throughout the World	Sanger, William W.	15.4	278921	
+18857	A Journey to the Centre of the Earth	Verne, Jules	9.9	85773	Science fiction;Earth (Planet) -- Core -- Fiction;Voyages, Imaginary -- Fiction;Adventure stories
+12513	A Classification and Subject Index for Cataloguing and Arranging the Books and Pamphlets of a Library	Dewey, Melvil	18.5	15596	Classification, Dewey decimal
+833	The Theory of the Leisure Class	Veblen, Thorstein	20.2	105351	Sociology,Leisure class
+82	Ivanhoe: A Romance	Scott, Walter	15.5	191430	Great Britain -- History -- Richard I, 1189-1199 -- Fiction;Knights and knighthood -- Fiction;Normans -- Great Britain -- Fiction;Triangles (Interpersonal relations) -- Fiction;Ivanhoe, Wilfred of, Sir (Fictitious character) -- Fiction;Jews -- England -- Fiction;Anglo-Saxons -- Fiction;Historical fiction;Love stories
+2610	Notre-Dame De Paris	Hugo, Victor	10.9	184390	France -- History -- Louis XI, 1461-1483 -- Fiction;Paris (France) -- History -- To 1515 -- Fiction;Historical fiction;People with disabilities -- Fiction;Clergy -- Fiction;Romances;Notre-Dame de Paris (Cathedral) -- Fiction
+6867	Lineage, Life and Labors of Jose Rizal, Philippine Patriot	Craig, Austin	17.2	62725	Rizal, Jose, 1861-1896
+3289	The Valley of Fear	Doyle, Arthur Conan	7.4	57508	Private investigators -- England -- Fiction;Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction
+159	The Island of Doctor Moreau	Wells, H. G. (Herbert George)	8.8	43581	Science fiction,Animal experimentation -- Fiction,Islands -- Fiction,Shipwreck survival -- Fiction
+28885	Alice's Adventures in Wonderland: Illustrated by Arthur Rackham. With a Proem by Austin Dobson	Carroll, Lewis	9.5	27270	Fantasy
+51337	The Man Outside	Smith, Evelyn E.	9.1	6497	
+940	The Last of the Mohicans; A narrative of 1757	Cooper, James Fenimore	14.4	148235	United States -- History -- French and Indian War, 1754-1763 -- Fiction;War stories;Adventure stories;Frontier and pioneer life -- Fiction;Mohegan Indians -- Fiction;Historical fiction;Bumppo, Natty (Fictitious character) -- Fiction
+500	The Adventures of Pinocchio	Collodi, Carlo	6.8	39863	Fairy tales,Puppets -- Juvenile fiction,Pinocchio (Fictitious character) -- Juvenile fiction
+12030	The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series	Steele, Richard, Sir	17	957892	English essays -- 18th century -- Periodicals
+35997	The Jungle Book	Kipling, Rudyard	9.3	51825	Jungles -- Fiction;Jungle animals -- Fiction;Feral children -- Fiction;Mowgli (Fictitious character) -- Fiction;Adventure stories, English;Animals -- Fiction;Short stories;India -- Fiction
+51296	The Sense of Wonder	Marlowe, Stephen	7.4	5909	
+40311	China and Pottery Marks	Unknown	16.1	2537	Pottery -- Marks
+11339	Aesop's Fables; a new translation	Aesop	12.3	41425	Fables, Greek -- Translations into English
+16643	Essays by Ralph Waldo Emerson	Emerson, Ralph Waldo	11.1	92705	Essays
+20776	Encyclopedia of Needlework	Dillmont, Therese de	11.4	141340	Needlework
+22120	Chaucer's Works, Volume 4 (of 7) - The Canterbury Tales	Chaucer, Geoffrey	10.6	239084	Christian pilgrims and pilgrimages -- Poetry
+910	White Fang	London, Jack	8.4	72017	Wolfdogs -- Fiction;Adventure stories;Canada, Northern -- Fiction
+512	Mosses from an Old Manse, and Other Stories	Hawthorne, Nathaniel	13.3	73036	New England -- Social life and customs -- Fiction,Short stories
+143	The Mayor of Casterbridge	Hardy, Thomas	10.5	115151	Fathers and daughters -- Fiction,Psychological fiction,Wessex (England) -- Fiction,Runaway husbands -- Fiction,Atonement -- Fiction,Men -- England -- Fiction,Mayors -- Fiction
+16966	Shakespearean Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth	Bradley, A. C. (Andrew Cecil)	13.2	171017	Shakespeare, William, 1564-1616 -- Tragedies
+1321	The Waste Land	Eliot, T. S. (Thomas Stearns)	11.1	4678	Poetry,Prose poems
+242	My Antonia	Cather, Willa	8.4	81320	Friendship -- Fiction,Married women -- Fiction,Women pioneers -- Fiction,Farmers' spouses -- Fiction,Farm life -- Fiction,Western stories,Women immigrants -- Fiction,Czech Americans -- Fiction,Frontier and pioneer life -- Nebraska -- Fiction,Nebraska -- Fiction,Domestic fiction
+15845	Florante at Laura	Balagtas, Francisco	14.2	22198	Tagalog poetry
+1656	Apology	Plato	13.7	16077	Philosophy, Ancient;Classical literature;Socrates, 470 BC-399 BC
+11231	Bartleby, the Scrivener: A Story of Wall-Street	Melville, Herman	10.7	14355	New York (N.Y.) -- Fiction;Copyists -- Fiction;Psychological fiction;Young men -- Fiction;Wall Street (New York, N.Y.) -- Fiction
+27	Far from the Madding Crowd	Hardy, Thomas	9.6	137083	Pastoral fiction,Wessex (England) -- Fiction,Women farmers -- Fiction,Triangles (Interpersonal relations) -- Fiction,Farm life -- Fiction,Didactic fiction,Love stories
+731	History of the Decline and Fall of the Roman Empire - Volume 1	Gibbon, Edward	15.4	265618	Rome -- History -- Empire, 30 B.C.-476 A.D.;Byzantine Empire -- History -- To 527
+13415	The Lady with the Dog and Other Stories	Chekhov, Anton Pavlovich	9.3	71379	Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English;Russia -- Social life and customs -- Fiction
+8299	Filipino Popular Tales	Unknown	8.7	207843	Folklore -- Philippines,Tales -- Philippines
+2848	Antiquities of the Jews	Josephus, Flavius	24.7	536947	Jews -- Antiquities
+974	The Secret Agent: A Simple Tale	Conrad, Joseph	9.7	90158	Bombings -- Fiction,Political fiction,Conspiracies -- Fiction,Anarchists -- Fiction,London (England) -- Fiction
+17192	The Raven	Poe, Edgar Allan	14.2	7148	Fantasy poetry, American
+2199	The Iliad	Homer	15.2	152699	Classical literature;Trojan War;Achilles (Mythological character);Epic poetry, Greek -- Translations into English
+3186	The Mysterious Stranger, and Other Stories	Twain, Mark	10.1	41382	Short stories;United States -- Social life and customs -- 19th century -- Fiction;Humorous stories, American
+51315	How?: or Spare Hours Made Profitable for Boys and Girls	Holbrook, Kennedy	14.6	66801	
+28522	Laura Middleton; Her Brother and her Lover	Anonymous	18.8	32104	Erotic stories
+6081	Biographia Literaria	Coleridge, Samuel Taylor	18.2	138336	Criticism;Aesthetics;Poetry;Wordsworth, William, 1770-1850. Lyrical ballads
+11030	Incidents in the Life of a Slave Girl, Written by Herself	Jacobs, Harriet A. (Harriet Ann)	7.8	83341	Women slaves -- United States -- Biography;Slaves -- United States -- Biography;Slaves -- United States -- Social conditions;Jacobs, Harriet A. (Harriet Ann), 1813-1897
+15718	How To Write Special Feature Articles: A Handbook for Reporters, Correspondents and Free-Lance Writers Who Desire to Contribute to Popular Magazines and Magazine Sections of Newspapers	Bleyer, Willard Grosvenor	12.8	137575	Authorship,Journalism
+580	The Pickwick Papers	Dickens, Charles	10.5	299047	England -- Fiction,Humorous stories,Men -- Societies and clubs -- Fiction,Male friendship -- Fiction
+284	The House of Mirth	Wharton, Edith	11.9	129161	New York (N.Y.) -- Fiction,Single women -- Fiction,Social classes -- Fiction,Psychological fiction
+146	A Little Princess: Being the whole story of Sara Crewe now told for the first time	Burnett, Frances Hodgson	7.9	66353	Orphans -- Fiction,Boarding schools -- Fiction,Schools -- Fiction,London (England) -- Fiction
+51310	My Lady Greensleeves	Pohl, Frederik	8.2	13890	
+42474	1000 Mythological Characters Briefly Described: Adapted to Private Schools, High Schools and Academies	Ellis, Edward Sylvester	11.1	30889	
+4240	Women in Love	Lawrence, D. H. (David Herbert)	7.7	180343	Women -- England -- Fiction,Male friendship -- Fiction,Psychological fiction,Sisters -- Fiction,Midlands (England) -- Fiction,Coal mines and mining -- Fiction,Love stories
+2446	An Enemy of the People	Ibsen, Henrik	7.3	31150	Springs -- Drama,Pollution -- Drama,Social conflict -- Drama,Physicians -- Drama,Norwegian drama -- Translations into English
+20480	Palmistry for All	Cheiro	14	42101	Palmistry
+30241	The Person and Work of The Holy Spirit	Torrey, R. A. (Reuben Archer)	10.8	73464	Holy Spirit
+13437	Best Russian Short Stories	Unknown	9.1	95148	Short stories, Russian -- Translations into English
+2229	Faust: Der Tragodie erster Teil	Goethe, Johann Wolfgang von	10.6	30669	German poetry;Magicians -- Drama;Legends -- Germany -- Drama;Faust, -approximately 1540 -- Drama
+558	The Thirty-Nine Steps	Buchan, John	7.4	40956	Hannay, Richard (Fictitious character) -- Fiction;Intelligence service -- Great Britain -- Fiction;World War, 1914-1918 -- Fiction;Spy stories
+29765	Webster's Unabridged Dictionary	Various	10	4462031	English language -- Dictionaries
+201	Flatland: A Romance of Many Dimensions (Illustrated)	Abbott, Edwin Abbott	15.8	34135	Fourth dimension
+70	What Is Man? and Other Essays	Twain, Mark	10.7	94409	American essays
+5921	The History of Don Quixote, Volume 1, Complete	Cervantes Saavedra, Miguel de	24.9	215835	Picaresque literature,Spain -- Social life and customs -- 16th century -- Fiction,Knights and knighthood -- Spain -- Fiction,Romances
+10554	Right Ho, Jeeves	Wodehouse, P. G. (Pelham Grenville)	7.5	73797	Humorous stories;Valets -- Fiction;Jeeves (Fictitious character) -- Fiction;Wooster, Bertie (Fictitious character) -- Fiction;England -- Fiction;Single men -- Fiction
+51353	Dr. Kometevsky's Day	Leiber, Fritz	9.6	6735	
+10947	The Best American Humorous Short Stories	Unknown	10.9	104548	Short stories, American
+550	Silas Marner	Eliot, George	13.7	70933	Fathers and daughters -- Fiction,Foundlings -- Fiction,Adopted children -- Fiction,England -- Fiction,Domestic fiction,Weavers -- Fiction
+6087	The Vampyre; a Tale	Polidori, John William	18.8	12630	Vampires -- Fiction,Horror tales,Gothic fiction (Literary genre)
+5001	Relativity : the Special and General Theory	Einstein, Albert	15.2	31082	Relativity (Physics)
+8710	The Dore Bible Gallery, Complete: Containing One Hundred Superb Illustrations, and a Page of Explanatory Letter-press Facing Each	Unknown	11.2	35550	Bible -- Illustrations
+19721	The Literary World Seventh Reader	Unknown	10.3	103797	Readers
+204	The Innocence of Father Brown	Chesterton, G. K. (Gilbert Keith)	10.1	78911	Brown, Father (Fictitious character) -- Fiction;Clergy -- Fiction;Detective and mystery stories, English;Catholics -- Fiction;England -- Fiction
+51242	Electricity in Locomotion: An Account of its Mechanism, its Achievements, and its Prospects	Whyte, Adam Gowens	15.9	28499	
+2226	Kim	Kipling, Rudyard	7.7	104478	Irish -- India -- Fiction,Orphans -- Fiction,Lamas -- Fiction,Spy stories,Adventure stories,India -- Fiction,Boys -- Fiction
+2892	Irish Fairy Tales	Stephens, James	9.7	66088	Tales -- Ireland,Fairy tales -- Ireland,Folklore -- Ireland
+202	My Bondage and My Freedom	Douglass, Frederick	13.2	134341	African American abolitionists -- Biography;Abolitionists -- United States -- Biography;Slaves -- Maryland -- Social conditions -- 19th century;Douglass, Frederick, 1818-1895;Antislavery movements -- United States -- History -- 19th century;Fugitive slaves -- Maryland -- Biography;Plantation life -- Maryland -- History -- 19th century
+8106	Captain Cook's Journal During His First Voyage Round the World: Made in H. M. Bark "Endeavour", 1768-71	Cook, James	12.7	233349	Oceania -- Discovery and exploration -- Early works to 1800,Voyages around the world -- Early works to 1800
+271	Black Beauty	Sewell, Anna	10.7	59959	Great Britain -- History -- 19th century -- Juvenile fiction,Horses -- Juvenile fiction,Historical fiction
+921	De Profundis	Wilde, Oscar	11.3	17718	Grief;Wilde, Oscar, 1854-1900;Suffering;Imprisonment
+11136	A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind	Rousseau, Jean-Jacques	28.2	26821	Natural law,Equality,Political science
+2992	The Middle-Class Gentleman	Moliere	8.2	18301	Middle class -- France -- Drama,French drama,Comedies,France -- Social life and customs -- 17th century -- Drama
+4081	The Alchemist	Jonson, Ben	9.3	48213	London (England) -- Drama,English drama (Comedy),City and town life -- Drama,Alchemists -- Drama,English drama -- 17th century
+8775	Poems	Hugo, Victor	12.2	69815	Hugo, Victor, 1802-1885 -- Translations into English;French poetry -- Translations into English
+9800	The Rape of the Lock and Other Poems	Pope, Alexander	12.9	56089	English poetry -- 18th century
+21	Aesop's Fables: Translated by George Fyler Townsend	Aesop	11.7	40858	Aesop's fables -- Translations into English;Fables, Greek -- Translations into English
+816	Democracy in America - Volume 2	Tocqueville, Alexis de	19.1	141230	United States -- Social conditions,Democracy -- United States,United States -- Politics and government
+2397	The Story of My Life: With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy	Keller, Helen	10	134869	Deafblind women -- United States -- Biography;Keller, Helen, 1880-1968
+383	She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy	Goldsmith, Oliver	7.4	22805	Comedies
+60	The Scarlet Pimpernel	Orczy, Emmuska Orczy, Baroness	11.6	84030	Historical fiction;France -- History -- Revolution, 1789-1799 -- Fiction;Nobility -- Fiction;Adventure stories;Blakeney, Percy, Sir (Fictitious character) -- Fiction;British -- France -- Fiction
+36287	The Poems and Prose Poems of Charles Baudelaire: with an Introductory Preface by James Huneker	Baudelaire, Charles	13.6	28092	Prose poems,French poetry -- Translations into English
+151	The Rime of the Ancient Mariner	Coleridge, Samuel Taylor	9	3856	Poetry
+22994	The Frontier in American History	Turner, Frederick Jackson	16.8	116906	Frontier and pioneer life -- United States,Frontier thesis,United States -- History,United States -- Territorial expansion
+15	Moby Dick	Melville, Herman	10	1523	Ship captains -- Fiction;Whaling ships -- Fiction;Psychological fiction;Whaling -- Fiction;Whales -- Fiction;Mentally ill -- Fiction;Sea stories;Adventure stories;Ahab, Captain (Fictitious character) -- Fiction
+34811	Buddenbrooks: Verfall einer Familie	Mann, Thomas	14.7	230016	Germany -- Fiction,Domestic fiction,Families -- Fiction
+51171	A Little Journey	Bradbury, Ray	8	2561	Older women -- Fiction,Short stories,Space flight -- Fiction,Swindlers and swindling -- Fiction,Science fiction
+599	Vanity Fair	Thackeray, William Makepeace	12.1	302346	Married women -- Fiction;Social classes -- Fiction;Satire;Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction;England -- Fiction;Female friendship -- Fiction;British -- Europe -- Fiction
+51361	Birds of a Feather	Silverberg, Robert	8	7678	
+7452	Autobiography of a Yogi	Yogananda, Paramahansa	10.8	155018	Yogananda, Paramahansa, 1893-1952;Yogis -- India -- Biography
+51341	Nine Thousand Miles On A Pullman Train: An Account of a Tour of Railroad Conductors From; Philadelphia to the Pacific Coast an Return	Shaw, Milton	10.5	63347	
+15489	Dream Psychology: Psychoanalysis for Beginners	Freud, Sigmund	15.5	53679	Psychoanalysis,Dreams
+51297	The Pilot and the Bushman	Jacobs, Sylvia	10.4	9164	
+1430	Beautiful Stories from Shakespeare	Shakespeare, William	10.3	48038	Shakespeare, William, 1564-1616 -- Stories, plots, etc. -- Juvenile literature;Children's literature
+2149	The Works of Edgar Allan Poe - Volume 3	Poe, Edgar Allan	14.7	99566	Fantasy fiction;American fiction -- 19th century;Horror tales, American
+208	Daisy Miller: A Study	James, Henry	8.4	21312	Psychological fiction,Europe -- Fiction,Young women -- Fiction,Americans -- Europe -- Fiction
+26654	Peter and Wendy	Barrie, J. M. (James Matthew)	8.2	47325	Fantasy,Peter Pan (Fictitious character) -- Fiction,Never-Never Land (Imaginary place) -- Fiction,Fairies -- Juvenile fiction,Pirates -- Juvenile fiction
+4367	Personal Memoirs of U. S. Grant, Complete	Grant, Ulysses S. (Ulysses Simpson)	13	280935	Grant, Ulysses S. (Ulysses Simpson), 1822-1885;Presidents -- United States -- Biography;Generals -- United States -- Biography;United States. Army -- Biography;United States -- History -- Civil War, 1861-1865 -- Campaigns;Mexican War, 1846-1848 -- Personal narratives
+51292	Trial of the Major War Criminals Before the International Military Tribunal, Vol. I: Nuremburg 14 November 1945-1 October 1946: Vol. I	Various	17.6	139743	
+39509	The Black Man, the Father of Civilization, Proven by Biblical History	Webb, James Morris	15.3	9348	Blacks in the Bible;Theological anthropology;Civilization, Ancient
+51425	The Autobiography of a Super-Tramp	Davies, W. H. (William Henry)	13.8	86874	
+45109	The Enchiridion	Epictetus	11.3	11053	
+18993	History  of the World War: An Authentic Narrative of the World's Greatest War	March, Francis Andrew	13.9	237058	World War, 1914-1918
+51305	Confidence Game	Harmon, Jim	6.6	5210	
+2040	Confessions of an English Opium-Eater	De Quincey, Thomas	18.6	38637	De Quincey, Thomas, 1785-1859;Drug addicts -- Great Britain -- Biography;Authors, English -- 19th century -- Biography;Opium abuse -- England
+19322	The Antichrist	Nietzsche, Friedrich Wilhelm	15.2	33638	Philosophy, German;Christianity -- Controversial literature
+35461	A Short History of the World	Wells, H. G. (Herbert George)	14.4	117534	World history
+175	The Phantom of the Opera	Leroux, Gaston	8.3	84705	Musical fiction,Paris (France) -- Fiction,Opera -- Fiction,Phantom of the Opera (Fictitious character) -- Fiction,French fiction -- Translations into English,Composers -- Fiction,Horror tales
+14969	Three Contributions to the Theory of Sex	Freud, Sigmund	19	42156	Sex
+621	The Varieties of Religious Experience: A Study in Human Nature	James, William	14	186250	Religion;Conversion;Experience (Religion);Philosophy and religion;Psychology, Religious
+3155	She	Haggard, H. Rider (Henry Rider)	15.9	126264	Africa -- Fiction,Women -- Africa -- Fiction,Fantasy fiction,Immortalism -- Fiction,Adventure stories,Reincarnation -- Fiction,Ayesha (Fictitious character : Haggard) -- Fiction,Love stories
+5402	1811 Dictionary of the Vulgar Tongue	Grose, Francis	9.1	80975	English language -- Slang -- Dictionaries
+12242	Poems by Emily Dickinson, Three Series, Complete	Dickinson, Emily	12.7	30811	American poetry
+1567	Poems	Eliot, T. S. (Thomas Stearns)	12.3	6569	Poetry
+1091	On Heroes, Hero-Worship, and the Heroic in History	Carlyle, Thomas	12.4	88521	Heroes,Hero worship
+17116	Ang Liham ni Dr. Jose Rizal sa mga Kadalagahan sa Malolos, Bulakan	Rizal, Jose	17.3	3377	Rizal, Jose, 1861-1896 -- Correspondence
+51354	Patty's Fortune	Wells, Carolyn	6.5	53071	
+2850	The Wars of the Jews; Or, The History of the Destruction of Jerusalem	Josephus, Flavius	25	235699	Jews -- History
+2009	The Origin of Species by Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life, 6th Edition	Darwin, Charles	20.1	206725	Evolution (Biology),Natural selection
+23042	The Tempest: The Works of William Shakespeare [Cambridge Edition] [9 vols.]	Shakespeare, William	7.8	23337	Political refugees -- Drama,Shipwreck victims -- Drama,Islands -- Drama,Tragicomedy,Spirits -- Drama,Fathers and daughters -- Drama,Magicians -- Drama
+51413	The Ignoble Savages	Smith, Evelyn E.	10.4	11197	
+785	On the Nature of Things	Lucretius Carus, Titus	21.6	73789	Philosophy, Ancient -- Poetry;Didactic poetry, Latin -- Translations into English
+20417	The Outline of Science, Vol. 1 (of 4): A Plain Story Simply Told	Thomson, J. Arthur (John Arthur)	13.8	106620	Science
+42671	Pride and Prejudice	Austen, Jane	10.7	121919	Sisters -- Fiction,Courtship -- Fiction,Social classes -- Fiction,England -- Fiction,Domestic fiction,Young women -- Fiction,Love stories
+35451	Medea of Euripides	Euripides	8.6	20400	Medea, consort of Aegeus, King of Athens (Mythological character) -- Drama
+4039	Volpone; Or, The Fox	Jonson, Ben	9.8	49071	Venice (Italy) -- Drama;Satire, English;Extortion -- Drama;Inheritance and succession -- Drama;English drama -- 17th century;English drama (Comedy)
+51243	The life of Midhat Pasha; a record of his services, political reforms, banishment, and judicial murder	Ali Haydar Mithat	18.2	99112	Midhat Pasa, 1822-1884;Statesmen -- Turkey -- Biography
+2267	Othello	Shakespeare, William	7.8	28085	Venice (Italy) -- Drama,Othello (Fictitious character) -- Drama,Tragedies,Muslims -- Drama,Interracial marriage -- Drama,Jealousy -- Drama
+51238	The Pride of Jennico: Being a Memoir of Captain Basil Jennico	Castle, Egerton	12.4	74659	
+51311	Make Me An Offer	Blomberg, Con	8.3	2664	
+51397	People Soup	Arkin, Alan	6.6	2044	
+36238	The Mantle, and Other Stories	Gogol, Nikolai Vasilevich	9.4	55097	Gogol, Nikolai Vasilevich, 1809-1852 -- Translations into English;Russia -- Social life and customs -- Fiction;Short stories, Russian -- Translations into English
+1672	Gorgias	Plato	13.2	59287	Classical literature,Political science -- Early works to 1800,Ethics -- Early works to 1800
+1240	The Playboy of the Western World: A Comedy in Three Acts	Synge, J. M. (John Millington)	7.2	20521	Ireland -- Drama
+51407	Sea Legs	Quattrocchi, Frank	6.9	13876	
+1658	Phaedo	Plato	14.3	42773	Classical literature,Immortality (Philosophy) -- Early works to 1800
+12108	Der Tod in Venedig	Mann, Thomas	19.9	24952	Authors -- Fiction,Munich (Germany) -- Fiction,Venice (Italy) -- Fiction
+883	Our Mutual Friend	Dickens, Charles	9.7	325137	Social classes -- Fiction,Poor families -- Fiction,Satire,Deception -- Fiction,London (England) -- Fiction,Inheritance and succession -- Fiction,Love stories
+51351	The Spicy Sound of Success	Harmon, Jim	7.4	5579	
+29558	Boy Scouts Handbook: The First Edition, 1911	Boy Scouts of America	11	126921	Boy Scouts of America -- Handbooks, manuals, etc.;Boy Scouts -- United States -- Handbooks, manuals, etc.
+8438	The Ethics of Aristotle	Aristotle	21.1	113184	Ethics
+389	The Great God Pan	Machen, Arthur	10.4	21671	Paranormal fiction,Horror tales
+3743	The Writings of Thomas Paine - Volume 4 (1794-1796): The Age of Reason	Paine, Thomas	17.1	72456	Rationalism,Philosophy and religion,Political science
+15043	The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)	Burke, Edmund	16.3	154577	Great Britain -- Politics and government -- 1760-1820,Political science -- Early works to 1800
+5116	Pragmatism: A New Name for Some Old Ways of Thinking	James, William	12.7	51956	Pragmatism
+51408	Angel's Egg	Pangborn, Edgar	9.5	13897	
+1695	The Man Who Was Thursday: A Nightmare	Chesterton, G. K. (Gilbert Keith)	9.2	58081	Allegories,Detective and mystery stories,Anarchists -- Fiction,Police -- Fiction,London (England) -- Fiction,Fantasy fiction
+854	A Woman of No Importance	Wilde, Oscar	6.6	22413	English drama,Man-woman relationships -- Drama
+2707	The History of Herodotus - Volume 1	Herodotus	21.7	161693	History, Ancient;Greece -- History -- To 146 B.C.
+3618	Arms and the Man	Shaw, Bernard	7.3	24592	Bulgaria -- Drama;Soldiers -- Bulgaria -- Drama;Italians -- Bulgaria -- Drama;Serbo-Bulgarian War, 1885 -- Drama;War -- Drama;Love -- Drama;Man-woman relationships -- Drama
+150	The Republic	Plato	13.7	124348	Justice -- Early works to 1800,Utopias -- Early works to 1800,Political science -- Early works to 1800
+7986	Plays by Anton Chekhov, Second Series	Chekhov, Anton Pavlovich	6.9	67081	Russian drama -- Translations into English;Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English
+2232	The Duchess of Malfi	Webster, John	8.9	26516	Brothers and sisters -- Drama,Retribution -- Drama,Tragedies,English drama -- 17th century
+51347	Submarines, Mines and Torpedoes in the War	Domville-Fife, Charles William	14.2	26355	
+51395	Survival Type	Bone, Jesse F. (Jesse Franklin)	10.3	8266	
+51304	A Touch of E Flat	Gibson, Joe	9.7	7015	
+51335	Fresh Air Fiend	Neville, Kris	7.2	4582	
+31516	The Eyes Have It	Dick, Philip K.	6.7	1133	Science fiction,Humorous stories,Short stories
+2166	King Solomon's Mines	Haggard, H. Rider (Henry Rider)	10.8	82197	Africa -- Fiction;Missing persons -- Fiction;Hunting guides -- Fiction;Treasure troves -- Fiction;Adventure stories;Quatermain, Allan (Fictitious character) -- Fiction;Diamond mines and mining -- Fiction
+28644	Beyond the Door	Dick, Philip K.	5.3	2474	Fantasy,Short stories
+6157	What Men Live By, and Other Tales	Tolstoy, Leo, graf	7.5	18800	Russia -- Fiction,Peasants -- Russia -- Fiction
+24571	Der Struwwelpeter: oder lustige Geschichten und drollige Bilder	Hoffmann, Heinrich	12.5	3066	Children -- Conduct of life -- Juvenile fiction;Children's poetry, German;Stories in rhyme;Children's stories, German;Picture books for children;Behavior -- Fiction
+19994	The Aesop for Children: With pictures by Milo Winter	Aesop	8	27468	Fables,Aesop's fables -- Adaptations,Folklore
+8117	The Possessed (The Devils)	Dostoyevsky, Fyodor	9	253678	Terrorists -- Russia -- Fiction,Russia -- Fiction,Nihilism -- Fiction,Russia -- Social life and customs -- 1533-1917 -- Fiction
+29021	The Fairy Tales of Charles Perrault	Perrault, Charles	14.5	28250	Fairy tales
+17396	The Secret Garden	Burnett, Frances Hodgson	7	80957	People with disabilities -- Fiction,Gardens -- Fiction,Orphans -- Fiction,Yorkshire (England) -- Fiction
+51382	The National Geographic Magazine, Vol. II., No. 2, May, 1890	Various	15.4	37316	
+8419	The Journals of Lewis and Clark, 1804-1806	Clark, William	13.8	664165	Lewis and Clark Expedition (1804-1806);Columbia River -- Description and travel;Clark, William, 1770-1838;Missouri River -- Description and travel;West (U.S.) -- History -- To 1848;West (U.S.) -- Description and travel;Lewis, Meriwether, 1774-1809
+4320	An Enquiry Concerning the Principles of Morals	Hume, David	19.2	48210	Ethics,Conduct of life
+1164	The Iron Heel	London, Jack	8.9	87796	Revolutions -- Fiction,Oligarchy -- Fiction,Science fiction,Socialism -- Fiction,Political fiction,Revolutionaries -- Fiction,Dystopias -- Fiction
+376	A Journal of the Plague Year: Written by a Citizen Who Continued All the While in London	Defoe, Daniel	24.2	94619	Plague -- Fiction;London (England) -- History -- 17th century -- Fiction;Historical fiction;Great Fire, London, England, 1666 -- Fiction
+38326	Bede's Ecclesiastical History of England	Bede, the Venerable, Saint	12.5	179997	England -- Church history -- 449-1066
+4507	As a Man Thinketh	Allen, James	16.1	7560	New Thought
+51184	Inside Earth	Anderson, Poul	8.6	17132	
+12096	Bushido, the Soul of Japan	Nitobe, Inazo	14.8	33447	Japan -- Social life and customs;Bushido;Ethics -- Japan;Samurai -- History;Japan -- Civilization;Philosophy, Japanese
+23218	The Red Room	Wells, H. G. (Herbert George)	10.3	3924	Short stories
+503	The Blue Fairy Book	Lang, Andrew	12.4	138437	Fairy tales,Folklore
+51342	Citizen Jell	Shaara, Michael	8.7	3293	
+40766	Nationalism	Tagore, Rabindranath	14.8	26694	Nationalism
+51	Anne of the Island	Montgomery, L. M. (Lucy Maud)	7.6	76565	Universities and colleges -- Fiction;Self-perception -- Fiction;Canada -- History -- 1914-1945 -- Fiction;Orphans -- Fiction;Prince Edward Island -- History -- 20th century -- Fiction;Nova Scotia -- History -- 20th century -- Fiction;Interpersonal relations -- Fiction;Shirley, Anne (Fictitious character) -- Fiction
+9182	Villette	Bronte, Charlotte	11.3	192542	Autobiographical fiction,British -- Belgium -- Fiction,Brussels (Belgium) -- Fiction,Women teachers -- Fiction,Love stories
+12383	The Poetical Works of William Wordsworth - Volume 3	Wordsworth, William	16.5	122801	English poetry -- 18th century,English poetry -- 19th century
+1268	The Mysterious Island	Verne, Jules	11.4	193330	Islands of the Pacific -- Fiction,Science fiction,Castaways -- Fiction,Adventure stories
+14522	The Canterville Ghost	Wilde, Oscar	13.5	11650	England -- Fiction,Ghosts -- Fiction
+51321	Prime Difference	Nourse, Alan Edward	7	4998	
+48320	Adventures of Sherlock Holmes: Illustrated	Doyle, Arthur Conan	8	106348	
+2759	The Man in the Iron Mask	Dumas, Alexandre	10.1	173624	France -- History -- Louis XIV, 1643-1715 -- Fiction;Adventure and adventurers -- Fiction;Swordsmen -- Fiction;Historical fiction;Man in the Iron Mask -- Fiction;Romances
+1279	Poems and Songs of Robert Burns	Burns, Robert	12	127342	Songs, Scots -- Scotland -- Texts;Scotland -- Poetry
+51421	Man in a Quandary	Wesley, Joseph	8.9	3150	
+33504	Opticks: Or, A Treatise of the Reflections, Refractions, Inflections, and Colours of Light	Newton, Isaac, Sir	21.8	100267	Optics -- Early works to 1800
+3178	The Gilded Age: A Tale of Today	Twain, Mark	10.4	158279	Political corruption -- Fiction,Political fiction,Satire,Legislators -- Fiction,Speculation -- Fiction,Washington (D.C.) -- Fiction,Businessmen -- Fiction
+24518	Memoirs of Extraordinary Popular Delusions and the Madness of Crowds	Mackay, Charles	14.2	278850	Investments -- Psychological aspects,Common fallacies,Impostors and imposture,Hallucinations and illusions,Occultism -- Early works to 1900,Stock exchanges -- Psychological aspects,Alchemy,Delusions,Swindlers and swindling,Social psychology
+77	The House of the Seven Gables	Hawthorne, Nathaniel	13.8	104875	Paranormal fiction,Domestic fiction,Haunted houses -- Fiction,Historical fiction,Salem (Mass.) -- Fiction
+26184	Simple Sabotage Field Manual	United States. Office of Strategic Services	12.4	9160	Sabotage
+876	Life in the Iron-Mills; Or, The Korl Woman	Davis, Rebecca Harding	8.1	14703	Women iron and steel workers -- Fiction,Feminism -- Fiction
+51380	Time In the Round	Leiber, Fritz	9	5334	
+47	Anne of Avonlea	Montgomery, L. M. (Lucy Maud)	7.5	88845	Canada -- History -- 1914-1945 -- Fiction;Orphans -- Fiction;Prince Edward Island -- History -- 20th century -- Fiction;Shirley, Anne (Fictitious character) -- Fiction;Teachers -- Fiction;Islands -- Fiction
+4018	Japanese Fairy Tales	Ozaki, Yei Theodora	10	70603	Folklore -- Japan,Fairy tales -- Japan,Fairy tales
+601	The Monk: A Romance	Lewis, M. G. (Matthew Gregory)	11.1	136959	Monks -- Fiction,Gothic fiction (Literary genre),Madrid (Spain) -- Fiction,Horror tales
+7128	Indian Fairy Tales	Unknown	9.6	71142	Fairy tales -- India,Folklore -- India,Fairy tales
+39947	Historia de Venezuela, Tomo I	Aguado, Pedro de, active 16th century	29.9	198454	Venezuela -- History -- 1556-1810,Venezuela -- History -- To 1556
+51409	Public School Life: Boys Masters Parents	Waugh, Alec	9.5	73661	
+51411	The Campaign in Russian Poland	Standing, Percy Cross	15.6	24791	
+7205	Also sprach Zarathustra: Ein Buch fur Alle und Keinen	Nietzsche, Friedrich Wilhelm	11.7	83753	Philosophy, German;Superman (Philosophical concept)
+51363	Double Standard	Coppel, Alfred	6.5	2492	
+14977	The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States	Wells-Barnett, Ida B.	12.4	34195	Lynching -- United States,Lynching -- United States -- Statistics,African Americans -- History -- 1877-1964
+41360	The Elementary Forms of the Religious Life	Durkheim, Emile	13.6	219215	Religion -- Philosophy,Religion,Cults,Totemism,Rites and ceremonies
+2151	The Works of Edgar Allan Poe - Volume 5	Poe, Edgar Allan	13.5	72342	Fantasy fiction;American fiction -- 19th century;Horror tales, American;American poetry
+26	Paradise Lost	Milton, John	23.7	80255	Eve (Biblical figure) -- Poetry,Bible. Genesis -- History of Biblical events -- Poetry,Fall of man -- Poetry,Adam (Biblical figure) -- Poetry
+17957	On the Sublime	Longinus, 1st cent.	13.9	30044	Sublime, The;Rhetoric, Ancient
+51320	Break a Leg	Harmon, Jim	8.5	7898	
+8578	The Grand Inquisitor	Dostoyevsky, Fyodor	13.4	9640	Christian fiction,Jesus Christ -- Fiction
+21531	Woodwork Joints: How they are Set Out, How Made and Where Used.	Fairham, William	10.8	36923	Woodwork,Carpentry
+51332	To The Fore With the Tanks!	Westerman, Percy F. (Percy Francis)	10.4	47762	
+51290	Memories of the Kaiser's Court	Topham, Anne	15.5	92768	
+51330	I Am A Nucleus	Barr, Stephen	7.1	11446	
+51329	Turkey; the Awakening of Turkey; the Turkish Revolution of 1908	Knight, E. F. (Edward Frederick)	19.6	80089	
+51396	Not a Creature Was Stirring	Evans, Dean	7.5	5212	
+7213	My Life and Work	Ford, Henry	10.3	93205	Businesspeople -- United States -- Biography;Automobiles -- History;Ford Motor Company -- History;Industrialists -- United States -- Biography;Automobile industry and trade -- United States -- History;Ford, Henry, 1863-1947
+2499	Siddhartha: eine indische Dichtung	Hesse, Hermann	13.3	34391	Buddhist philosophy -- Fiction,Religious fiction,Buddhism -- Fiction,India -- Fiction,Gautama Buddha -- Fiction
+2833	The Portrait of a Lady - Volume 1	James, Henry	9.5	116826	Fathers and daughters -- Fiction;Americans -- Italy -- Fiction;Married women -- Fiction;Italy -- Fiction;Triangles (Interpersonal relations) -- Fiction;Psychological fiction;Inheritance and succession -- Fiction;Archer, Isabel (Fictitious character) -- Fiction;Love stories
+14021	Lord of the World	Benson, Robert Hugh	10.8	99477	Science fiction,Second Advent -- Fiction
+29433	Nature	Emerson, Ralph Waldo	11.4	15335	Philosophy, American;Nature
+5682	Fundamental Principles of the Metaphysic of Morals	Kant, Immanuel	22.3	30759	Philosophy, German;Ethics
+31469	The Shunned House	Lovecraft, H. P. (Howard Phillips)	17.8	10832	Horror tales, American;Haunted houses -- Fiction
+2376	Up from Slavery: An Autobiography	Washington, Booker T.	12.9	76625	Washington, Booker T., 1856-1915;African Americans -- Biography;Tuskegee Institute;Educators -- United States -- Biography
+2981	The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete	Casanova, Giacomo	10	1256752	Europe -- History -- 18th century -- Biography;Casanova, Giacomo, 1725-1798
+119	A Tramp Abroad	Twain, Mark	12.1	156139	Walking -- Fiction,Humorous stories,Europe -- Fiction,Americans -- Europe -- Fiction
+2811	Letters of Pliny	Pliny, the Younger	17.5	90738	Latin letters -- Translations into English;Lawyers -- Rome -- Correspondence;Pliny, the Younger -- Correspondence;Authors, Latin -- Rome -- Correspondence
+28890	Helps to Latin Translation at Sight	Luce, Edmund	13.1	119325	Latin language -- Readers
+7889	Erotica Romana	Goethe, Johann Wolfgang von	10.8	6726	German poetry -- Translations into English
+51344	Voyage to Far N'jurd	Neville, Kris	6.5	12297	
+6593	History of Tom Jones, a Foundling	Fielding, Henry	16	350346	Humorous stories,Foundlings -- Fiction,Bildungsromans,Identity (Psychology) -- Fiction,England -- Fiction,Young men -- Fiction
+15491	Micrographia: Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon	Hooke, Robert	30.9	154574	Microscopy -- Early works to 1800,Magnifying glasses -- Early works to 1800,Natural history -- Pre-Linnean works
+51414	...So They Baked a Cake	Marks, Winston K.	9.5	4161	
+963	Little Dorrit	Dickens, Charles	11	337359	Fathers and daughters -- Fiction;London (England) -- Fiction;Children of prisoners -- Fiction;Debt, Imprisonment for -- Fiction;Inheritance and succession -- Fiction;Domestic fiction;Love stories;Marshalsea Prison (Southwark, London, England) -- Fiction
+1874	The Railway Children	Nesbit, E. (Edith)	7.8	59291	England -- Fiction,Brothers and sisters -- Fiction,Country life -- England -- Fiction,Family life -- Fiction,Railroads -- Fiction
+1093	The Beast in the Jungle	James, Henry	11	18565	Conduct of life -- Fiction,Egoism -- Fiction,Man-woman relationships -- Fiction,Fate and fatalism -- Fiction
+148	The Autobiography of Benjamin Franklin	Franklin, Benjamin	16.9	66189	Statesmen -- United States -- Biography;Franklin, Benjamin, 1706-1790
+6762	Politics: A Treatise on Government	Aristotle	30	102328	Political science -- Early works to 1800
+17824	Little Black Sambo	Bannerman, Helen	11	1166	India -- Juvenile fiction,Pride and vanity -- Juvenile fiction,Tiger -- Juvenile fiction,Boys -- Juvenile fiction,Children's stories
+21765	The Metamorphoses of Ovid, Books I-VII	Ovid	13.6	125286	Classical literature;Mythology, Classical -- Poetry;Latin poetry -- Translations into English;Metamorphosis -- Mythology -- Poetry;Fables, Latin -- Translations into English
+9105	Reflections; or Sentences and Moral Maxims	La Rochefoucauld, Francois duc de	11.6	35317	Maxims
+1213	The Man That Corrupted Hadleyburg	Twain, Mark	9.9	17638	United States -- Social life and customs -- 19th century -- Fiction;Humorous stories, American
+657	The Anglo-Saxon Chronicle	Unknown	13.4	94777	Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Sources;Anglo-Saxons -- Early works to 1800
+16713	Amusements in Mathematics	Dudeney, Henry Ernest	10.2	162112	Puzzles,Mathematical recreations
+10636	The Travels of Marco Polo - Volume 1	Rustichello of Pisa	12.4	335271	Voyages and travels;Polo, Marco, 1254-1323?;Mongols -- History;Asia -- Description and travel -- Early works to 1800
+32	Herland	Gilman, Charlotte Perkins	9.8	52145	Women -- Fiction,Black humor,Utopian fiction,Utopias -- Fiction
+14314	Etiquette	Post, Emily	12.8	204276	Etiquette
+15210	Darkwater: Voices from Within the Veil	Du Bois, W. E. B. (William Edward Burghardt)	11.9	67209	United States -- Race relations,African Americans
+16436	Poems Every Child Should Know: The What-Every-Child-Should-Know-Library	Unknown	11.6	66584	English poetry,American poetry
+51271	The History of the Highland Clearances: Second Edition, Altered and Revised	Mackenzie, Alexander	17.8	100172	Highlands (Scotland) -- History,Land tenure -- Scotland Highlands
+51318	Prisoner of the Mill: or, Captain Hayward's "Body Guard"	Hazelton, Harry	8.9	33968	
+51362	Lex	Haggert, W. T.	9.1	7637	
+24869	The Ramayan of Valmiki, translated into English verse	Valmiki	12.7	400089	Rama (Hindu deity) -- Poetry;Epic poetry, Sanskrit -- Translations into English;Folklore -- India
+38145	Human, All Too Human: A Book for Free Spirits	Nietzsche, Friedrich Wilhelm	16.4	36696	Human beings
+51268	The Girls From Earth	Robinson, Frank M.	8.1	7294	
+1237	Father Goriot	Balzac, Honore de	9.3	103583	Paris (France) -- Fiction;Older men -- Fiction;French fiction -- Translations into English;France -- History -- Louis XVIII, 1814-1824 -- Fiction;Fathers and daughters -- Fiction
+1252	Le Morte d'Arthur: Volume 2	Malory, Thomas, Sir	12.7	187720	Arthur, King -- Legends;Arthurian romances
+2529	The Analysis of Mind	Russell, Bertrand	14.8	89040	Knowledge, Theory of;Consciousness;Psychology
+28521	The Power of Mesmerism: A Highly Erotic Narrative of Voluptuous Facts and Fancies	Anonymous	14.6	25173	Erotic stories
+51350	No Substitutions	Harmon, Jim	7.2	5959	
+51398	Growing Up On Big Muddy	De Vet, Charles V. (Charles Vincent)	8.7	5553	
+35690	Omens and Superstitions of Southern India	Thurston, Edgar	12.8	95608	Folklore -- India;Occultism -- India, South;Omens;Dravidians -- Folklore;Superstition -- India, South
+790	Lady Windermere's Fan	Wilde, Oscar	6.4	19823	Mothers and daughters -- Drama,Aristocracy (Social class) -- Drama,Marriage -- Drama
+1041	Shakespeare's Sonnets	Shakespeare, William	17.9	17682	Sonnets, English;English poetry
+51340	The Mentor: The Metropolitan Museum of Art, Vol. 6, Num. 9, Serial No. 157, June 15, 1918	Noe, Sydney P.	11.8	9545	
+15396	Tender Buttons: Objects-Food-Rooms	Stein, Gertrude	8.4	14971	Prose poems
+15263	The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.	Still, William	12.2	403272	Fugitive slaves -- United States -- Biography,Fugitive slaves -- United States -- History -- 19th century,Underground Railroad,Antislavery movements -- United States -- History -- 19th century,Abolitionists -- United States -- Biography
+967	Nicholas Nickleby	Dickens, Charles	11.8	322303	England -- Social life and customs -- 19th century -- Fiction,Theatrical companies -- Fiction,Poor families -- Fiction,Bildungsromans,Picaresque literature,England -- Fiction,Boarding schools -- Fiction,Young men -- Fiction
+153	Jude the Obscure	Hardy, Thomas	9.2	143965	Unmarried couples -- Fiction,Wessex (England) -- Fiction,Illegitimate children -- Fiction,Love stories,Children -- Death -- Fiction,Didactic fiction,Stonemasons -- Fiction,Adultery -- Fiction
+157	Daddy-Long-Legs	Webster, Jean	8.1	36951	Universities and colleges -- Fiction,Schools -- Fiction,Philanthropists -- Fiction,Epistolary fiction,Orphans -- Fiction,Bildungsromans,Women college students -- Fiction,Letters -- Fiction,Boarding schools -- Fiction,Women authors -- Fiction,Young women -- Fiction,Love stories
+969	The Tenant of Wildfell Hall	Bronte, Anne	12.4	168520	Married women -- Fiction,Landlord and tenant -- Fiction,Alcoholics -- Fiction,England -- Social life and customs -- 19th century -- Fiction,England -- Fiction,Domestic fiction
+18362	Fifteen Thousand Useful Phrases: A Practical Handbook Of Pertinent Expressions, Striking Similes, Literary, Commercial, Conversational, And Oratorical Terms, For The Embellishment Of Speech And Literature, And The Improvement Of The Vocabulary Of Those Persons Who Read, Write, And Speak English	Kleiser, Grenville	125.1	81607	English language -- Terms and phrases
+51404	Plain Living: A Bush Idyll	Boldrewood, Rolf	10.2	76638	
+71	On the Duty of Civil Disobedience	Thoreau, Henry David	13.9	9333	Government, Resistance to;Civil disobedience
+8147	The Man Who Would Be King	Kipling, Rudyard	8.7	14194	Political fiction,Kings and rulers -- Fiction,British -- Afghanistan -- Fiction,Afghanistan -- Fiction
+130	Orthodoxy	Chesterton, G. K. (Gilbert Keith)	10.8	63809	Christianity -- Essence, genius, nature;Apologetics;Chesterton, G. K. (Gilbert Keith), 1874-1936
+1129	The Tragedy of Macbeth	Shakespeare, William	8.2	18248	Scotland -- Kings and rulers -- Drama;Tragedies;Macbeth, King of Scotland, active 11th century -- Drama;Regicides -- Drama
+1564	Boswell's Life of Johnson: Abridged and edited, with an introduction by Charles Grosvenor Osgood	Boswell, James	11.4	217186	Johnson, Samuel, 1709-1784;Critics -- Great Britain -- Biography;Lexicographers -- Great Britain -- Biography;Authors, English -- 18th century -- Biography
+51420	License to Steal	Newman, Louis	16.2	3383	
+51368	A Queen of Tears, vol. 1 of 2: Caroline Matilda, Queen of Denmark and Norway and Princess; of Great Britain and Ireland	Wilkins, W. H. (William Henry)	14.3	90906	
+51379	The Music Master of Babylon	Pangborn, Edgar	9.5	10584	
+2002	Sonnets from the Portuguese	Browning, Elizabeth Barrett	11.6	5482	Sonnets, English;Love poetry, English
+11945	Essays of Schopenhauer	Schopenhauer, Arthur	17.4	72966	Philosophy, German
+2242	A Midsummer Night's Dream	Shakespeare, William	9.2	17672	Athens (Greece) -- Drama,Courtship -- Drama,Fairy plays,Comedies
+51326	The Principles of Chemistry Volume I (of 2)	Mendeleyev, Dmitry Ivanovich	16.7	361074	
+1120	The Tragedy of Julius Caesar	Shakespeare, William	7.5	20842	Caesar, Julius -- Assassination -- Drama;Tragedies;Conspiracies -- Drama;Rome -- History -- Civil War, 43-31 B.C. -- Drama;Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama;Assassins -- Drama
+11027	Grimm's Fairy Stories	Grimm, Jacob	11.4	50621	Fairy tales,Fairy tales -- Germany
+3567	Memoirs of Napoleon Bonaparte - Complete	Bourrienne, Louis Antoine Fauvelet de	13.5	489658	Private secretaries -- France -- Biography;Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries;Napoleon I, Emperor of the French, 1769-1821;Bourrienne, Louis Antoine Fauvelet de, 1769-1834;Napoleon I, Emperor of the French, 1769-1821 -- Relations with private secretaries
+13529	The Influence of Sea Power Upon History, 1660-1783	Mahan, A. T. (Alfred Thayer)	17.6	211227	Sea-power;Naval history, Modern
+10897	The Wendigo	Blackwood, Algernon	12.3	18383	Horror tales
+51331	Swenson, Dispatcher	Miller, R. DeWitt	8.3	7673	
+51306	A Dog Day: or The Angel in the House	Emanuel, Walter	8.8	1830	
+30201	In Praise of Folly: Illustrated with Many Curious Cuts	Erasmus, Desiderius	26.3	44850	Folly -- Early works to 1800
+27424	Cautionary Tales for Children	Belloc, Hilaire	13.3	2674	Conduct of life -- Juvenile poetry;Children's poetry, English
+29728	Cookery and Dining in Imperial Rome	Apicius	12.9	105698	Cookbooks;Cooking, Roman -- Early works to 1800
+15143	Famous Modern Ghost Stories	Unknown	9.3	94666	Ghost stories,Short stories
+10136	The Book of Household Management	Beeton, Mrs. (Isabella Mary)	12.4	514564	Cooking, English;Home economics
+15776	The Economic Consequences of the Peace	Keynes, John Maynard	16.9	69597	Economic history -- 1918-1945;Treaty of Versailles (1919);World War, 1914-1918 -- Economic aspects
+40580	A General History of the Pyrates:: from their first rise and settlement in the island of Providence, to the present time	Defoe, Daniel	21.9	129089	Pirates -- Early works to 1800
+51432	Stories from The Arabian Nights	Housman, Laurence	15.3	28729	
+501	The Story of Doctor Dolittle	Lofting, Hugh	7.7	25955	Fantasy,Animals -- Juvenile fiction
+10940	Manners, Customs, and Dress During the Middle Ages and During the Renaissance Period	Jacob, P. L.	16.3	157577	Renaissance,Manners and customs,Clothing and dress,Middle Ages
+14988	Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth	Cicero, Marcus Tullius	16.7	181274	Rome -- Politics and government -- 265-30 B.C.;Happiness -- Early works to 1800;Theology -- Early works to 1800;Gods, Roman -- Early works to 1800;State, The -- Early works to 1800;Political science -- Early works to 1800
+808	The Complete Plays of Gilbert and Sullivan	Gilbert, W. S. (William Schwenck)	8.6	161243	Operas -- Librettos
+14568	Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.)	Unknown	12.3	39281	Arthurian romances,Gawain (Legendary character) -- Romances
+3435	The Book of the Thousand Nights and a Night - Volume 01	Unknown	13.5	173812	Tales -- Arab countries,Fairy tales
+45410	Composition	Dow, Arthur Wesley	12.5	23734	
+1719	The Ballad of the White Horse	Chesterton, G. K. (Gilbert Keith)	15.8	17475	Christian poetry;Historical poetry;Great Britain -- History -- Alfred, 871-899 -- Poetry;Epic poetry;Alfred, King of England, 849-899 -- Poetry;White Horse, Vale of (England) -- Poetry
+1977	Phaedra	Racine, Jean	9	14001	Phaedra (Greek mythology) -- Drama,Tragedies
+51288	Man of Distinction	Shaara, Michael	9.9	2139	
+6688	The Mill on the Floss	Eliot, George	11.5	206412	Conflict of generations -- Fiction,England -- Fiction,Water mills -- Fiction,Young women -- Fiction,Vendetta -- Fiction,Brothers and sisters -- Fiction,Loss (Psychology) -- Fiction,Domestic fiction,Psychological fiction,Love stories
+5658	Lord Jim	Conrad, Joseph	9.5	128708	Psychological fiction,Indonesia -- Fiction,British -- Indonesia -- Fiction,Atonement -- Fiction,Merchant marine -- Officers -- Fiction,Cowardice -- Fiction
+15859	The Piazza Tales	Melville, Herman	14.3	79165	Manners and customs -- Fiction,Short stories
+46915	A Treatise on Painting	Leonardo, da Vinci	13.8	72270	Drawing -- Technique -- Early works to 1800;Painting -- Technique -- Early works to 1800;Leonardo, da Vinci, 1452-1519
+19337	A Christmas Carol	Dickens, Charles	9.3	29282	Ghost stories;Scrooge, Ebenezer (Fictitious character) -- Fiction;Poor families -- Fiction;Christmas stories;London (England) -- Fiction;Misers -- Fiction;Sick children -- Fiction
+5720	A Shropshire Lad	Housman, A. E. (Alfred Edward)	13.3	9046	Shropshire (England) -- Poetry
+26659	The Will to Believe, and Other Essays in Popular Philosophy	James, William	14.6	101183	Essays,Philosophy,Belief and doubt
+1212	Love and Freindship [sic]	Austen, Jane	14.1	33252	Epistolary fiction,Essays,England -- Social life and customs -- 18th century -- Fiction
+51371	Slaveholding: Weighed in the Balance of Truth	Fitch, Charles	14	10497	
+27673	Oedipus King of Thebes: Translated into English Rhyming Verse with Explanatory Notes	Sophocles	8.5	18226	Tragedies,Oedipus (Greek mythological figure) -- Drama
+51436	Bullet With His Name	Leiber, Fritz	10.7	11842	
+5427	Emile	Rousseau, Jean-Jacques	13.1	251964	Education -- Early works to 1800
+28497	Myths of the Norsemen: From the Eddas and Sagas	Guerber, H. A. (Helene Adeline)	17.6	100347	Mythology, Norse
+3623	The Golden Bough: A Study of Magic and Religion	Frazer, James George	15.6	409963	Religion,Mythology,Magic,Superstition
+45502	How the Other Half Lives: Studies Among the Tenements of New York	Riis, Jacob A. (Jacob August)	12.9	81588	
+1513	Romeo and Juliet	Shakespeare, William	9.3	25512	Romeo (Fictitious character) -- Drama,Verona (Italy) -- Drama,Conflict of generations -- Drama,Juliet (Fictitious character) -- Drama,Vendetta -- Drama,Youth -- Drama
+3188	Mark Twain's Speeches	Twain, Mark	9.5	92182	Speeches, addresses, etc., American
+7471	The Man with Two Left Feet, and Other Stories	Wodehouse, P. G. (Pelham Grenville)	7	70979	Humorous stories, English;Short stories
+19163	Marchen fur Kinder	Andersen, H. C. (Hans Christian)	11.3	56394	Fairy tales -- Denmark
+21839	Sense and Sensibility	Austen, Jane	12.4	121839	Gentry -- England -- Fiction,Sisters -- Fiction,Social classes -- Fiction,England -- Social life and customs -- 19th century -- Fiction,England -- Fiction,Mate selection -- Fiction,Regency fiction,Inheritance and succession -- Fiction,Domestic fiction,Young women -- Fiction,Love stories
+27200	Fairy Tales of Hans Christian Andersen	Andersen, H. C. (Hans Christian)	10.3	371292	Fairy tales -- Denmark;Fairy tales;Short stories;Children's stories, Danish -- Translations into English
+12254	Illustrated History of Furniture: From the Earliest to the Present Time	Litchfield, Frederick	15.4	76222	Furniture -- History
+51267	End as a Hero	Laumer, Keith	7.2	12270	
+51392	Hafiz in London	Hafiz, 14th cent.	15.2	6417	
+64	The Gods of Mars	Burroughs, Edgar Rice	11.1	82689	Life on other planets -- Fiction;Science fiction;Dejah Thoris (Fictitious character) -- Fiction;Carter, John (Fictitious character) -- Fiction;Mars (Planet) -- Fiction
+33447	The Pencil of Nature	Talbot, William Henry Fox	14.3	9478	Photography -- Early works to 1850
+34856	My Own Story	Pankhurst, Emmeline	13.2	95774	Feminists -- Great Britain -- Biography;Suffragists -- Great Britain -- Biography;Women -- Suffrage -- Great Britain;Pankhurst, Emmeline, 1858-1928
+42704	Salome: A Tragedy in One Act	Wilde, Oscar	5.5	13170	Salome (Biblical figure) -- Drama,Tragedies
+45814	An Advanced English Grammar with Exercises	Farley, Frank Edgar	9.9	105795	
+51336	What is Posat?	Smith, Phyllis Sterling	9	5601	
+2350	His Last Bow: An Epilogue of Sherlock Holmes	Doyle, Arthur Conan	7.3	6082	Private investigators -- England -- Fiction;Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction
+25447	Mysticism and Logic and Other Essays	Russell, Bertrand	16.7	71757	Science,Philosophy,Mathematics
+32474	The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.	Diaz del Castillo, Bernal	17.3	184178	Mexico -- History -- Conquest, 1519-1540
+50133	The Dunwich Horror	Lovecraft, H. P. (Howard Phillips)	14.1	17318	
+1170	Anabasis	Xenophon	14.9	94860	Classical literature;Iran -- History -- To 640;Greece -- History -- Expedition of Cyrus, 401 B.C.;Cyrus, the Younger, approximately 423 B.C.-401 B.C.
+18947	The Younger Edda; Also called Snorre's Edda, or The Prose Edda	Snorri Sturluson	9.7	66946	Mythology, Norse;Scalds and scaldic poetry
+20916	The Arabian Nights: Their Best-known Tales	Unknown	15.7	114821	Tales -- Arab countries,Fairy tales -- Arab countries,Fairy tales,Folklore -- Arab countries,Arabs -- Folklore
+29635	Dr. Montessori's Own Handbook	Montessori, Maria	13.6	25130	Montessori method of education
+2150	The Works of Edgar Allan Poe - Volume 4	Poe, Edgar Allan	12.2	78589	Fantasy fiction;American fiction -- 19th century;Horror tales, American;Short stories
+3268	The Mysteries of Udolpho	Radcliffe, Ann Ward	16.3	290340	Italy -- Fiction,Orphans -- Fiction,Gothic fiction (Literary genre),Guardian and ward -- Fiction,Inheritance and succession -- Fiction,Castles -- Fiction,Young women -- Fiction,Horror tales
+51422	In the path of the alphabet: an historical account of the ancient beginnings and; evolution of the modern alphabet	Jermain, Frances	15.7	31506	
+1	The Declaration of Independence of the United States of America	Jefferson, Thomas	23.8	32	United States. Declaration of Independence;United States -- History -- Revolution, 1775-1783 -- Sources
+51258	A Bad Day for Vermin	Laumer, Keith	8.3	2039	
+544	Anne's House of Dreams	Montgomery, L. M. (Lucy Maud)	7.7	79374	Friendship -- Fiction;Country life -- Prince Edward Island -- Fiction;Orphans -- Fiction;Prince Edward Island -- History -- 20th century -- Fiction;Canada -- History -- 1867-1914 -- Fiction;Shirley, Anne (Fictitious character) -- Fiction;Marriage -- Fiction;Young women -- Fiction
+20583	The Tribes and Castes of the Central Provinces of India, Volume 1	Russell, R. V. (Robert Vane)	12.3	184101	Madhya Pradesh (India) -- Religion,Ethnology -- India -- Madhya Pradesh,Caste -- India -- Madhya Pradesh,Madhya Pradesh (India) -- Scheduled tribes
+14244	The Romance of Tristan and Iseult	Bedier, Joseph	10.8	25783	Tristan (Legendary character) -- Romances -- Adaptations,Iseult (Legendary character) -- Romances -- Adaptations,Arthurian romances -- Adaptations
+34099	In Stahlgewittern, aus dem Tagebuch eines Stosstruppfuhrers	Junger, Ernst	15.6	67468	Junger, Ernst, 1895-1998;Soldiers -- Germany -- Diaries;World War, 1914-1918 -- Personal narratives, German
+946	Lady Susan	Austen, Jane	12.4	23047	Widows -- Fiction,England -- Fiction,Mate selection -- Fiction,Mothers and daughters -- Fiction,Epistolary fiction
+122	The Return of the Native	Hardy, Thomas	9.1	141670	People with visual disabilities -- Fiction,Wessex (England) -- Fiction,Love stories,Mothers and sons -- Fiction,Mate selection -- Fiction,Heathlands -- Fiction,Didactic fiction,Adultery -- Fiction
+610	Idylls of the King	Tennyson, Alfred Tennyson, Baron	16	84178	Arthurian romances -- Adaptations;Arthur, King -- Poetry;Knights and knighthood -- Poetry
+981	Beowulf	Unknown	13	25884	Dragons -- Poetry;Epic poetry, English (Old);Monsters -- Poetry;Scandinavia -- Poetry
+34632	Selected Sermons of Jonathan Edwards	Edwards, Jonathan	15.5	71349	Edwards, Jonathan, 1703-1758;Sermons, American;Congregational churches -- Sermons
+2027	Tartuffe; Or, The Hypocrite	Moliere	9.4	18138	French drama -- 17th century -- Translations into English,Comedies
+28554	Beyond Lies the Wub	Dick, Philip K.	5.4	2694	Science fiction,Short stories
+29004	English Translations Of Works Of Emile Zola: An Index to the Project Gutenberg Works of Zola in English	Zola, Emile	14.7	1022	Indexes
+18900	A Text-Book of the History of Painting	Van Dyke, John Charles	12.6	74680	Painting -- History
+6695	Tales of the Jazz Age	Fitzgerald, F. Scott (Francis Scott)	9.3	86579	United States -- Social life and customs -- 20th century -- Fiction,Short stories
+8954	Lady Audley's Secret	Braddon, M. E. (Mary Elizabeth)	11.2	147984	Married women -- Fiction,Domestic fiction,Deception -- Fiction,England -- Fiction,Psychological fiction,Bigamy -- Fiction
+107	Far from the Madding Crowd	Hardy, Thomas	10.1	137044	Pastoral fiction,Wessex (England) -- Fiction,Women farmers -- Fiction,Triangles (Interpersonal relations) -- Fiction,Farm life -- Fiction,Didactic fiction,Love stories
+2274	How to Live on 24 Hours a Day	Bennett, Arnold	10.2	12842	Values,Conduct of life,Time management
+1128	The Tragedy of King Lear	Shakespeare, William	6.4	27527	Kings and rulers -- Drama;Britons -- Drama;Tragedies;Lear, King (Legendary character) -- Drama;Aging parents -- Drama;Inheritance and succession -- Drama;Fathers and daughters -- Drama
+16653	Myths of Babylonia and Assyria	Mackenzie, Donald A. (Donald Alexander)	13.4	153732	Mythology, Assyro-Babylonian;Assyro-Babylonian religion
+1081	Dead Souls	Gogol, Nikolai Vasilevich	12.1	141946	Satire,Humorous stories,Swindlers and swindling -- Russia -- Fiction,Russia -- Social life and customs -- 1533-1917 -- Fiction
+15474	The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1: Books 1, 2 and 3	Unknown	12.3	631885	Epic literature, Sanskrit
+3166	Doctor Thorne	Trollope, Anthony	9.9	216995	Country life -- Fiction,Barsetshire (England: Imaginary place) -- Fiction,Great Britain -- History -- 19th century -- Fiction,Physicians -- Fiction,England -- Social life and customs -- 19th century -- Fiction,Nieces -- Fiction,Inheritance and succession -- Fiction,Domestic fiction,Love stories
+12758	Library of the World's Best Mystery and Detective Stories	Unknown	10.5	101411	Detective and mystery stories
+23319	Mechanical Drawing Self-Taught: Comprising instructions in the selection and preparation of drawing instruments, elementary instruction in practical mechanical drawing; together with examples in simple geometry and elementary mechanism, including screw threads, gear wheels, mechanical motions, engines and boilers	Rose, Joshua	13.3	69205	Drawing instruments,Mechanical drawing
+221	The Return of Sherlock Holmes	Doyle, Arthur Conan	7.7	112404	Private investigators -- England -- Fiction;Detective and mystery stories, English;Holmes, Sherlock (Fictitious character) -- Fiction
+821	Dombey and Son	Dickens, Charles	11.9	354829	Fathers and daughters -- Fiction,Dysfunctional families -- Fiction,Family-owned business enterprises -- Fiction,England -- Fiction,Businesspeople -- Fiction,Domestic fiction
+17321	History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery	King, L. W. (Leonard William)	15.9	114152	Egypt -- History -- To 332 B.C.;History, Ancient
+216	The Tao Teh King, or the Tao and its Characteristics	Laozi	11.1	10657	Philosophy, Chinese;Taoism -- Sacred books
+19778	Alice's Abenteuer im Wunderland	Carroll, Lewis	11.8	25515	Fantasy
+32154	The Variable Man	Dick, Philip K.	6.9	25044	Science fiction,War stories,Weapons -- Fiction
+51286	Pen Pal	Marlowe, Stephen	8.5	5179	
+68	Warlord of Mars	Burroughs, Edgar Rice	13.9	57129	Science fiction;Dejah Thoris (Fictitious character) -- Fiction;Carter, John (Fictitious character) -- Fiction;Mars (Planet) -- Fiction
+19068	Household Stories by the Brothers Grimm	Grimm, Wilhelm	10.7	88728	Fairy tales -- Germany
+3250	How to Tell a Story, and Other Essays	Twain, Mark	10.5	7236	Essays,Short stories,Storytelling
+51308	My Strange Rescue: and other stories of Sport and Adventure in Canada	Oxley, J. Macdonald (James Macdonald)	13	84589	
+28900	English Synonyms and Antonyms: With Notes on the Correct Use of Prepositions	Fernald, James Champlin	15.7	197332	English language -- Prepositions,English language -- Synonyms and antonyms
+30240	The Big Trip Up Yonder	Vonnegut, Kurt	10.3	3623	Science fiction,Short stories
+51284	The Ways of the Planets	Martin, Martha Evans	14.4	54701	
+51358	Gutenberg, and the Art of Printing	Pearson, Emily Clemens	11.9	59891	
+29827	The Life and Amours of the Beautiful, Gay and Dashing Kate Percival: The Belle of the Delaware	Percival, Kate	10.5	39324	Erotic literature, American;Prostitutes -- Fiction
+1643	Meno	Plato	11.5	22177	Classical literature;Socrates, 470 BC-399 BC;Ethics -- Early works to 1800;Virtue -- Early works to 1800
+34222	Das Unheimliche	Freud, Sigmund	17.2	12047	Psychoanalysis;Uncanny, The (Psychoanalysis)
+16317	The Art of Public Speaking	Esenwein, J. Berg (Joseph Berg)	12.1	159258	Public speaking
+4352	Laughter: An Essay on the Meaning of the Comic	Bergson, Henri	13.6	39763	Comedy;Laughter;Philosophy, French
+19725	The History of Rome, Books 01 to 08	Livy	19.3	232465	Rome -- History
+624	Looking Backward, 2000 to 1887	Bellamy, Edward	13.2	77836	Two thousand, A.D. -- Fiction;Science fiction;Time travel -- Fiction;Utopian fiction;Social problems -- Fiction;Utopias -- Fiction;Boston (Mass.) -- Fiction
+19719	The Art Of Writing & Speaking The English Language: Word-Study and Composition & Rhetoric	Cody, Sherwin	12.6	61728	English language
+20781	Heidi: (Gift Edition)	Spyri, Johanna	7.6	51515	Grandfathers -- Fiction,Switzerland -- History -- 19th century -- Fiction,Orphans -- Fiction,Mountain life -- Switzerland -- Fiction
+2434	New Atlantis	Bacon, Francis	17	15700	Utopias -- Early works to 1800
+370	The Fortunes and Misfortunes of the Famous Moll Flanders	Defoe, Daniel	19.8	138014	Repentance -- Fiction,Women -- England -- Fiction,Criminals -- Fiction,Prostitutes -- Fiction,British -- Virginia -- Fiction,London (England) -- Fiction,Picaresque literature,Virginia -- Fiction,Children of prisoners -- Fiction,Adventure stories
+13726	Apology, Crito, and Phaedo of Socrates	Plato	14.5	52171	Socrates, 470 BC-399 BC
+1929	The School for Scandal	Sheridan, Richard Brinsley	10.6	28881	England -- Social life and customs -- 18th century -- Drama,English drama -- 18th century,Nobility -- England -- History -- 18th century -- Drama,Comedies
+5307	The Letters of Wolfgang Amadeus Mozart - Volume 01	Mozart, Wolfgang Amadeus	9.8	89375	Composers -- Austria -- Correspondence;Mozart, Wolfgang Amadeus, 1756-1791 -- Correspondence
+8581	The Art of Money Getting; Or, Golden Rules for Making Money	Barnum, P. T. (Phineas Taylor)	12.5	13569	Success,Success in business
+10615	An Essay Concerning Humane Understanding, Volume 1: MDCXC, Based on the 2nd Edition, Books 1 and 2	Locke, John	20	149772	Knowledge, Theory of -- Early works to 1800
+831	Four Arthurian Romances	Chretien, de Troyes, active 12th century	10	191075	Arthurian romances;Tales, Medieval;Romances -- Translations into English;Chretien, de Troyes, active 12th century
+51322	The Mentor: The Incas, vol. 6, num. 3, Serial No. 151, March 15, 1918	Hardy, Osgood	15.9	9022	
+13707	Twice Told Tales	Hawthorne, Nathaniel	13.7	146115	New England -- Social life and customs -- Fiction;Short stories;Historical fiction, American
+34368	Sex-linked Inheritance in Drosophila	Bridges, Calvin B. (Calvin Blackman)	15.6	32604	Heredity,Drosophila
+36020	Slave Narratives: A Folk History of Slavery in the United States From Interviews with Former Slaves: Volume I, Alabama Narratives	United States. Work Projects Administration	7.8	128315	African Americans -- Alabama -- Biography,Slaves -- Alabama -- Social conditions,Slaves -- Alabama -- Biography,Slave narratives -- Alabama,Slavery -- Alabama
+37423	How We Think	Dewey, John	16.7	65074	Thought and thinking,Educational psychology
+19860	The Arabian Nights Entertainments	Anonymous	13.5	86813	Fairy tales,Folklore -- Arab countries
+2021	Nostromo: A Tale of the Seaboard	Conrad, Joseph	10.5	170152	Latin America -- Fiction,Political fiction,Revolutions -- Fiction,Sea stories,Sailors -- Fiction
+51435	The Business, As Usual	Sharkey, Jack	8.9	2602	
+165	McTeague: A Story of San Francisco	Norris, Frank	8.5	112587	Avarice -- Fiction,Psychological fiction,Murderers -- Fiction,Dentists -- Fiction,Married people -- Fiction,San Francisco (Calif.) -- Fiction,Didactic fiction
+1107	The Taming of the Shrew	Shakespeare, William	7.8	22176	Man-woman relationships -- Drama,Padua (Italy) -- Drama,Comedies,Sex role -- Drama,Married people -- Drama
+217	Sons and Lovers	Lawrence, D. H. (David Herbert)	6.2	160203	Bildungsromans,Autobiographical fiction,England -- Fiction,Working class families -- Fiction,Domestic fiction,Young men -- Fiction
+20321	A Brief Account of the Destruction of the Indies: Or, a faithful NARRATIVE OF THE Horrid and Unexampled Massacres, Butcheries, and all manner of Cruelties, that Hell and Malice could invent, committed by the Popish Spanish Party on the inhabitants of West-India, TOGETHER With the Devastations of several Kingdoms in America by Fire and Sword, for the space of Forty and Two Years, from the time of its first Discovery by them.	Casas, Bartolome de las	30.9	31078	Spain -- Colonies -- America;Indians, Treatment of -- Latin America
+35898	The Seven Lamps of Architecture	Ruskin, John	20.1	80494	Architecture
+5946	The History of Don Quixote, Volume 2, Complete	Cervantes Saavedra, Miguel de	21.8	210198	Picaresque literature,Spain -- Social life and customs -- 16th century -- Fiction,Knights and knighthood -- Spain -- Fiction,Romances
+17489	Les miserables Tome I: Fantine	Hugo, Victor	10.6	110063	Paris (France) -- Fiction,Ex-convicts -- Fiction,Epic literature,Orphans -- Fiction,Historical fiction
+22542	Jesus the Christ: A Study of the Messiah and His Mission According to Holy; Scriptures Both Ancient and Modern	Talmage, James E. (James Edward)	14	304357	Jesus Christ -- Mormon interpretations,Christian biography -- Palestine,Jesus Christ -- Biography
+5669	Considerations on Representative Government	Mill, John Stuart	21.6	95204	Representative government and representation
+2895	Following the Equator: A Journey Around the World	Twain, Mark	11.7	187603	Equator -- Description and travel;Voyages around the world;Twain, Mark, 1835-1910 -- Travel
+1074	The Sea-Wolf	London, Jack	8.3	105620	Sealers (Persons) -- Fiction,Ship captains -- Fiction,Arctic regions -- Fiction,Sea stories,Sealing ships -- Fiction
+1156	Babbitt	Lewis, Sinclair	10.1	122453	Conformity -- Fiction,Businessmen -- Fiction,Satire,Middle-aged men -- Fiction,Psychological fiction
+18247	The Last Man	Shelley, Mary Wollstonecraft	14.2	174555	Science fiction,Twenty-first century -- Fiction,End of the world -- Fiction,Plague -- Fiction
+27805	The Wind in the Willows	Grahame, Kenneth	10.7	58643	Country life -- Fiction,Humorous stories,Pastoral fiction,Animals -- Fiction,Fantasy fiction,England -- Fiction,Friendship -- Fiction,River life -- Fiction
+51328	The Hand Phrenologically Considered: Being a Glimpse at the Relation of the Mind with the Organisation of the Body	Anonymous	18.2	13919	
+37841	Human, All-Too-Human: A Book For Free Spirits; Part II	Nietzsche, Friedrich Wilhelm	14	83985	Human beings
+41445	Frankenstein; Or, The Modern Prometheus	Shelley, Mary Wollstonecraft	12.8	72609	Monsters -- Fiction;Frankenstein's monster (Fictitious character) -- Fiction;Gothic fiction (Literary genre);Science fiction;Frankenstein, Victor (Fictitious character) -- Fiction;Scientists -- Fiction;Horror tales
+40196	The Oxford Book of American Essays	Unknown	14.2	163191	American essays
+4361	Memoirs of General William T. Sherman - Complete	Sherman, William T. (William Tecumseh)	15.1	351745	United States. Army -- Biography;United States -- History -- Civil War, 1861-1865 -- Campaigns;Sherman, William T. (William Tecumseh), 1820-1891;United States -- History -- Civil War, 1861-1865 -- Personal narratives;Generals -- United States -- Biography
+10148	The Merry Adventures of Robin Hood	Pyle, Howard	11.1	111123	Robin Hood (Legendary character) -- Legends,Folklore -- England
+51410	Dr. Elsie Inglis	Balfour, Lady Frances	9.6	60603	
+114	The Tenniel Illustrations for Carroll's Alice in Wonderland	Tenniel, John	14.6	547	Fantasy fiction,Children's stories
+30107	Principles Of Political Economy: Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy	Mill, John Stuart	16	238908	Economics
+51294	The Mysteries of London, v. 2/4	Reynolds, George W. M. (George William MacArthur)	12.6	415590	
+11505	All Things Considered	Chesterton, G. K. (Gilbert Keith)	11.6	59638	English essays
+51355	The Iliads of Homer: Translated according to the Greek	Homer	18	170676	
+16816	Le roman de la rose - Tome I	Guillaume, de Lorris, active 1230	13.5	94433	Courtly love -- Poetry,Romances
+2243	The Merchant of Venice	Shakespeare, William	11.5	22651	Jews -- Italy -- Drama,Moneylenders -- Drama,Venice (Italy) -- Drama,Comedies
+28500	All About Coffee	Ukers, William H. (William Harrison)	13.3	426570	Coffee Industry,Drinking customs,Coffee
+14323	La-bas	Huysmans, J.-K. (Joris-Karl)	10.6	89623	Erotic stories;France -- History -- 15th century -- Fiction;Rais, Gilles de, 1404-1440 -- Fiction;Satanism -- Fiction;Paranormal fiction
+51460	A Husband for My Wife	Stuart, William W.	6	5296	
+1292	The Way of the World	Congreve, William	7.7	28497	English drama (Comedy)
+51302	English Coins and Tokens: With A Chapter on Greek and Roman Coins	Jewitt, Llewellynn Frederick William	12.8	35100	
+4397	The Forsyte Saga - Complete	Galsworthy, John	9.1	316853	England -- Social life and customs -- 20th century -- Fiction,Women -- England -- Fiction,Forsyte family (Fictitious characters) -- Fiction,Middle class -- England -- Fiction,Families -- England -- Fiction,England -- Social life and customs -- 19th century -- Fiction,Domestic fiction
+51275	The Sleeping Beauty and other fairy tales	Perrault, Charles	11.8	26932	
+11438	The Willows	Blackwood, Algernon	11.5	19559	Horror tales
+51314	In Bad Company and other stories	Boldrewood, Rolf	11.7	187926	
+51356	The Birth of Tragedy: or Hellenism and Pessimism	Nietzsche, Friedrich Wilhelm	22.3	54029	
+901	The Jew of Malta	Marlowe, Christopher	9.2	25793	Tragedies,Jews -- Malta -- Drama
+10002	The House on the Borderland	Hodgson, William Hope	9.3	50912	Science fiction
+3790	Major Barbara	Shaw, Bernard	7.3	32605	Salvation Army -- Drama,Children of the rich -- Drama,Didactic drama,Crime -- Drama,Fathers and daughters -- Drama
+391	The Song of Roland	Unknown	12.2	32369	Roland (Legendary character) -- Romances;Epic poetry, French -- Translations into English
+2587	Life Is a Dream	Calderon de la Barca, Pedro	13.8	17436	Drama
+4763	The Game of Logic	Carroll, Lewis	11	14408	Logic -- Juvenile literature;Logic, Symbolic and mathematical
+54	The Marvelous Land of Oz	Baum, L. Frank (Lyman Frank)	9.9	42489	Oz (Imaginary place) -- Fiction,Fantasy
+223	The Wisdom of Father Brown	Chesterton, G. K. (Gilbert Keith)	10.9	71640	England -- Fiction;Brown, Father (Fictitious character) -- Fiction;Clergy -- Fiction;Detective and mystery stories, English;Catholics -- Fiction
+51383	Cawnpore	Trevelyan, George Otto	15.8	81913	
+41481	Astounding Stories of Super-Science January 1930	Unknown	7.9	73514	Science fiction, American -- Periodicals;Science fiction -- Periodicals
+51101	Nice Girl With 5 Husbands	Leiber, Fritz	8	4378	
+15353	A First Spanish Reader	Roessler, Erwin W. (Erwin William)	10.5	39506	Spanish language -- Textbooks for foreign speakers -- English,Spanish language -- Readers
+28289	The Essays of "George Eliot": Complete	Eliot, George	18.4	104655	Literature -- History and criticism
+36077	De Nederlandsche Geslachtsnamen in Oorsprong, Geschiedenis en Beteekenis	Winkler, Johan	15.8	186286	Names, Personal -- Netherlands;Names, Personal -- Frisian
+4357	American Fairy Tales	Baum, L. Frank (Lyman Frank)	9.4	31809	Fairy tales;Short stories;Children's stories, American;Fairy tales -- United States
+46333	The Social Contract & Discourses	Rousseau, Jean-Jacques	18.2	123505	
+12228	Home Geography for Primary Grades	Long, C. C.	6.3	17312	Geography -- Outlines, syllabi, etc.
+29376	Bahnwarter Thiel	Hauptmann, Gerhart	13	15967	
+1636	Phaedrus	Plato	15.9	38132	Rhetoric, Ancient;Love -- Early works to 1800;Soul -- Early works to 1800;Classical literature;Rhetoric -- Early works to 1800;Socrates, 470 BC-399 BC;Lysias
+51299	Ibrahim Pasha: Grand Vizir of Suleiman the Magnificent	Jenkins, Hester Donaldson	13.3	36438	
+1450	Pollyanna	Porter, Eleanor H. (Eleanor Hodgman)	7.9	55688	Orphans -- Juvenile fiction,Conduct of life -- Juvenile fiction,Cheerfulness -- Juvenile fiction,Aunts -- Juvenile fiction,Interpersonal relations -- Juvenile fiction,Vermont -- History -- 20th century -- Juvenile fiction
+21200	The Letters of Cicero, Volume 1: The Whole Extant Correspodence in Chronological Order	Cicero, Marcus Tullius	12.2	169933	Cicero, Marcus Tullius -- Correspondence;Statesmen -- Rome -- Correspondence;Authors, Latin -- Correspondence
+2775	The Good Soldier	Ford, Ford Madox	9.7	75182	Friendship -- Fiction;Hessen (Hesse, Germany : Province) -- Fiction;Middle class -- Fiction;Bad Nauheim (Germany) -- Fiction;British -- Germany -- Fiction;Married people -- Fiction;Domestic fiction;Adultery -- Fiction
+5657	The Practice of the Presence of God	Lawrence, of the Resurrection, Brother	8.6	11018	Christian life -- Catholic authors,Spiritual life -- Catholic Church
+700	The Old Curiosity Shop	Dickens, Charles	12.5	215977	Grandfathers -- Fiction,Antique dealers -- Fiction,Didactic fiction,England -- Fiction,Grandparent and child -- Fiction,Gamblers -- Fiction,Domestic fiction,Girls -- Fiction
+3328	Man and Superman: A Comedy and a Philosophy	Shaw, Bernard	8.8	68761	English drama,Man-woman relationships -- Drama
+51449	Moral Equivalent	Neville, Kris	7.9	7645	
+16157	Ibong Adarna: Corrido at Buhay na Pinagdaanan nang tatlong Principeng Magcacapatid na Anac nang Haring Fernando at nang Reina Valeriana sa Cahariang Berbania	Anonymous	14.2	15989	Folklore -- Philippines
+14155	Madame Bovary	Flaubert, Gustave	12.9	111313	French literature
+46976	The Anabasis of Alexander: or, The History of the Wars and Conquests of Alexander the Great	Nicomedia, Arrian of	12.9	148516	
+708	The Princess and the Goblin	MacDonald, George	8.5	50951	Fantasy,Goblins -- Juvenile fiction,Fairy tales,Children's stories,Princesses -- Juvenile fiction
+3160	The Odyssey	Homer	14.6	121231	Epic poetry, Greek -- Translations into English;Odysseus (Greek mythology) -- Poetry;Homer -- Translations into English
+51428	That Which Hath Wings	Dehan, Richard	10.7	183089	
+1280	Spoon River Anthology	Masters, Edgar Lee	12.3	31172	American poetry
+33525	Stories from Tagore	Tagore, Rabindranath	9.3	47491	India -- Social life and customs -- Fiction;English language -- Textbooks for foreign speakers -- Indic;Tagore, Rabindranath, 1861-1941 -- Translations into English;Short stories, Bengali -- Translations into English
+8795	The Divine Comedy by Dante, Illustrated, Purgatory, Complete	Dante Alighieri	13.3	36584	Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English
+51403	Cicero: Letters to Atticus, Volume III (of 3)	Cicero, Marcus Tullius	9.2	115638	
+14640	McGuffey's First Eclectic Reader, Revised Edition	McGuffey, William Holmes	5.6	7573	Readers
+18450	Hawaiian Folk Tales: A Collection of Native Legends	Unknown	12.3	71358	Tales -- Hawaii,Legends -- Hawaii
+1937	The Second Jungle Book	Kipling, Rudyard	9.5	63730	Mowgli (Fictitious character) -- Fiction,India -- Fiction,Jungle animals -- Fiction
+3070	The Hound of the Baskervilles	Doyle, Arthur Conan	8.1	59192	Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction;Private investigators -- England -- Fiction;Blessing and cursing -- Fiction;Dogs -- Fiction;Dartmoor (England) -- Fiction
+674	Plutarch: Lives of the noble Grecians and Romans	Plutarch	23.4	740378	Greece -- Biography -- Early works to 1800,Rome -- Biography -- Early works to 1800
+18155	The Story of the Three Little Pigs	Brooke, L. Leslie (Leonard Leslie)	9.9	1039	Fairy tales
+445	The Crowd: A Study of the Popular Mind	Le Bon, Gustave	16.2	54919	Crowds
+51256	The Cool War	Fetler, Andrew	8.2	5201	
+16452	The Iliad of Homer: Translated into English Blank Verse by William Cowper	Homer	13.7	174002	Epic poetry, Greek -- Translations into English;Achilles (Mythological character) -- Poetry;Trojan War -- Poetry
+1653	The Imitation of Christ	Thomas, a Kempis	12.4	62007	Meditations
+18442	Fifty Famous Stories Retold	Baldwin, James	6.4	32289	Readers,Folklore,History
+19481	"Everyman," with other interludes, including eight miracle plays	Unknown	10.1	56715	Mysteries and miracle-plays, English;Moralities, English;English drama -- To 1500;Bible plays, English
+51317	The Fight Against Lynching: Anti-Lynching Work of the National Association for the Advancement of Colored People for the Year Nineteen Eighteen	Anonymous	14.3	5565	
+12655	The Boy Mechanic: Volume 1: 700 Things for Boys to Do	Popular Mechanics Company	9	242015	Handicraft for boys
+2038	The Lock and Key Library: Classic Mystery and Detective Stories: Modern English	Unknown	8.3	125114	Detective and mystery stories, English;Short stories;Fiction
+51343	Motor Matt's Reverse: or, Caught in a Losing Cause	Matthews, Stanley R.	8.8	32368	
+36034	White Nights and Other Stories: The Novels of Fyodor Dostoevsky, Volume X	Dostoyevsky, Fyodor	9.2	118405	Russian fiction -- Translations into English;Dostoyevsky, Fyodor, 1821-1881 -- Translations into English
+5219	The Satyricon - Volume 02: Dinner of Trimalchio	Petronius Arbiter	11.8	19213	Rome -- Fiction;Satire, Latin -- Translations into English
+51433	Hunt the Hunter	Neville, Kris	6.8	5524	
+31100	The Complete Project Gutenberg Works of Jane Austen: A Linked Index of all PG Editions of Jane Austen	Austen, Jane	11.3	777121	England -- Social life and customs -- Fiction;Love stories, English
+38594	Poems	Rilke, Rainer Maria	16.3	10230	Poetry
+51273	Advance Agent	Anvil, Christopher	8	11079	
+15000	The Life of Reason: The Phases of Human Progress	Santayana, George	16.2	317450	Philosophy
+2488	Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World	Verne, Jules	10.7	144604	Submarines (Ships) -- Fiction,Science fiction,Sea stories,Underwater exploration -- Fiction
+1094	Tamburlaine the Great - Part 1	Marlowe, Christopher	11.2	24765	English drama;Historical drama;Timur, 1336-1405 -- Drama;Tragedies
+28696	Symbolic Logic	Carroll, Lewis	11.8	56160	Logic, Symbolic and mathematical
+4070	The Master Builder	Ibsen, Henrik	8	28713	Norwegian drama -- Translations into English,Architects -- Drama
+51346	Poem Outlines	Lanier, Sidney	12.3	8232	
+1227	The Expression of the Emotions in Man and Animals	Darwin, Charles	15	108949	Instinct;Expression;Psychology, Comparative;Emotions
+15492	A Doll's House	Ibsen, Henrik	6	26487	Wives -- Drama,Man-woman relationships -- Drama,Marriage -- Drama,Norwegian drama -- Translations into English
+1051	Sartor Resartus: The Life and Opinions of Herr Teufelsdrockh	Carlyle, Thomas	18.8	80184	Conduct of life -- Fiction,Humorous stories,Germany -- Fiction,Satire,Clothing and dress -- Fiction,Philosophers -- Fiction,Didactic fiction
+11000	An Old Babylonian Version of the Gilgamesh Epic	Clay, Albert Tobias	13.4	36952	Epic poetry, Assyro-Babylonian
+17976	Autobiography of Andrew Carnegie	Carnegie, Andrew	10.3	116938	Philanthropists -- United States -- Biography;Carnegie, Andrew, 1835-1919;Industrialists -- United States -- Biography
+25063	The Beggar's Opera; to Which is Prefixed the Musick to Each Song	Gay, John	8.5	20514	Ballad operas -- Librettos
+30325	The Elements of Drawing, in Three Letters to Beginners	Ruskin, John	18.8	73717	Drawing
+1298	The Virginian: A Horseman of the Plains	Wister, Owen	7.4	129298	Cowboys -- Fiction,Wyoming -- Fiction,Western stories,Vigilantes -- Fiction,Cattle stealing -- Fiction
+7524	The Germany and the Agricola of Tacitus	Tacitus, Cornelius	14.9	48789	Agricola, Gnaeus Julius, 40-93;Germanic peoples -- Early works to 1800;Statesmen -- Rome -- Biography -- Early works to 1800
+3755	Common Sense	Paine, Thomas	16.9	19521	Monarchy,United States -- Politics and government -- 1775-1783,Political science
+3361	Letters to His Son, Complete: On the Fine Art of Becoming a Man of the World and a Gentleman	Chesterfield, Philip Dormer Stanhope, Earl of	15.3	291127	Conduct of life
+51255	Chain Reaction	Ellanby, Boyd	7.2	4718	
+51448	The Border and the Buffalo: An Untold Story of the Southwest Plains	Cook, John R.	9.7	106053	
+9830	The Beautiful and Damned	Fitzgerald, F. Scott (Francis Scott)	10.3	123560	Psychological fiction,Alcoholics -- Fiction,Married people -- Fiction,New York (N.Y.) -- Fiction,Inheritance and succession -- Fiction,Domestic fiction,Socialites -- Fiction,Young men -- Fiction
+4078	The Picture of Dorian Gray	Wilde, Oscar	6.9	54616	London (England) -- History -- 1800-1950 -- Fiction;Conduct of life -- Fiction;Paranormal fiction;Portraits -- Fiction;Appearance (Philosophy) -- Fiction;Supernatural -- Fiction;Great Britain -- History -- Victoria, 1837-1901 -- Fiction;Didactic fiction
+43855	Franklin's Way to Wealth: or, 'Poor Richard Improved'	Franklin, Benjamin	13.8	3597	
+7256	The Gift of the Magi	Henry, O.	6.8	2063	Gifts -- Fiction,Short stories,Christmas stories
+16527	1001 zadacha dlia umstvennogo scheta	Rachinskii, Sergei Aleksandrovich	4.9	27030	Word problems (Mathematics);Mathematics -- Problems, exercises, etc.
+51374	The Golden Gems of Life: Gathered Jewels for the Home Circle	Ferguson, S. C.	13	158526	
+51445	Sordman the Protector	Purdom, Tom	5.8	7989	
+351	Of Human Bondage	Maugham, W. Somerset (William Somerset)	8.3	259443	People with disabilities -- Fiction,Artists -- Fiction,Orphans -- Fiction,Bildungsromans,Physicians -- Fiction
+11417	French Mediaeval Romances from the Lays of Marie de France	Marie, Queen of Rumania	9.3	73791	Lays -- Translations into English;Romances -- Translations into English;Marie, de France, active 12th century -- Translations into English
+12341	Against the Grain	Huysmans, J.-K. (Joris-Karl)	17.4	59501	French fiction -- Translations into English
+16376	Browning's Shorter Poems	Browning, Robert	10	49170	English poetry
+32522	Mr. Spaceship	Dick, Philip K.	6.3	10562	Science fiction,War stories,Space ships -- Fiction
+51274	Ambition	Bade, William L.	7.9	7720	
+1965	Captain Blood	Sabatini, Rafael	9.3	113152	Historical fiction,Caribbean Area -- Fiction,Pirates -- Fiction,Physicians -- Fiction,Sea stories,Adventure stories,British -- Caribbean Area -- Fiction
+34815	Jane's All the World's Aircraft. 1913	Unknown	14.5	73423	Aeronautics -- Periodicals,Airships -- Periodicals
+51418	"1812" Napoleon I in Russia	Vereshchagin, Vasilii Vasilevich	13.4	77864	
+944	The Voyage of the Beagle	Darwin, Charles	14.6	205655	Natural history,Voyages around the world -- History -- 19th century,Beagle Expedition (1831-1836),South America -- Discovery and exploration,Geology
+2891	Howards End	Forster, E. M. (Edward Morgan)	7.7	108676	Country homes -- Fiction,Sisters -- Fiction,Social classes -- Fiction,Illegitimate children -- Fiction,England -- Fiction,Remarried people -- Fiction,Inheritance and succession -- Fiction,Domestic fiction
+38280	Modern Essays	Unknown	12	84843	American essays,English essays
+575	The Essays or Counsels, Civil and Moral	Bacon, Francis	15.7	53007	English essays -- Early modern, 1500-1700
+2048	The Sketch-Book of Geoffrey Crayon	Irving, Washington	16.9	128395	Hudson River Valley (N.Y. and N.J.) -- Fiction;Americans -- England -- History -- 19th century;Fantasy fiction, American;Catskill Mountains Region (N.Y.) -- Fiction;Irving, Washington, 1783-1859 -- Travel -- England;England -- Social life and customs -- 19th century
+1717	What's Wrong with the World	Chesterton, G. K. (Gilbert Keith)	12.5	60066	Social problems
+22400	Fox's Book of Martyrs: Or A History of the Lives, Sufferings, and Triumphant; Deaths of the Primitive Protestant Martyrs	Foxe, John	15.4	263862	Persecution,Martyrs,Church history
+27761	Hamlet, Prince of Denmark	Shakespeare, William	10	31823	Hamlet (Legendary character) -- Drama,Tragedies,Murder victims' families -- Drama,Princes -- Drama,Denmark -- Drama,Fathers -- Death -- Drama,Revenge -- Drama,Kings and rulers -- Succession -- Drama
+10662	The Night Land	Hodgson, William Hope	18.3	197075	Science fiction
+1289	Three Ghost Stories	Dickens, Charles	11.6	21066	Ghost stories,English fiction
+30255	The Skull	Dick, Philip K.	5.7	7812	Science fiction,Short stories,Time travel -- Fiction
+51334	The Story of Elizabeth Canning Considered	Hill, John A. (John Alexander)	16.1	10390	
+144	The Voyage Out	Woolf, Virginia	9.6	136016	Ocean travel -- Fiction,Women travelers -- Fiction,Bildungsromans,Love stories,Young women -- Fiction,British -- South America -- Fiction
+1666	The Golden Asse	Apuleius	26.1	80581	Classical literature,Metamorphosis -- Fiction
+35977	Letters of Abelard and Heloise: To which is prefix'd a particular account of their lives, amours, and misfortunes	Heloise	12.5	47674	Abelard, Peter, 1079-1142 -- Correspondence;Love-letters;Authors, Latin (Medieval and modern) -- France -- Correspondence;Heloise, approximately 1095-1163 or 1164 -- Correspondence
+39863	The Montessori Method: Scientific Pedagogy as Applied to Child Education in 'The Children's Houses' with Additions and Revisions by the Author	Montessori, Maria	15.4	118351	Montessori method of education
+51389	The German Classics from the Fourth to the Nineteenth Century, Vol. 1 (of 2)	Muller, F. Max (Friedrich Max)	12.2	199486	
+1245	Night and Day	Woolf, Virginia	10.8	166200	Biographers -- Fiction,Triangles (Interpersonal relations) -- Fiction,Poets -- Family relationships -- Fiction,London (England) -- Fiction,Mothers and daughters -- Fiction,Domestic fiction,Young women -- Fiction,Love stories
+25344	The Scarlet Letter	Hawthorne, Nathaniel	13.7	83817	Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction;Revenge -- Fiction;Psychological fiction;Triangles (Interpersonal relations) -- Fiction;Women immigrants -- Fiction;Illegitimate children -- Fiction;Historical fiction;Married women -- Fiction;Clergy -- Fiction;Puritans -- Fiction;Adultery -- Fiction
+1685	The Mystery of the Yellow Room	Leroux, Gaston	9.9	73251	Detective and mystery stories;Rouletabille, Joseph (Fictitious character) -- Fiction;Reporters and reporting -- Fiction
+10657	"De Bello Gallico" and Other Commentaries	Caesar, Julius	20.9	159795	Rome -- History -- Civil War, 49-48 B.C.;Gaul -- History -- Gallic Wars, 58-51 B.C.
+34081	Myths & Legends of the Celtic Race	Rolleston, T. W. (Thomas William)	13.7	141007	Mythology, Celtic;Celts -- Religion
+35830	The 2010 CIA World Factbook	United States. Central Intelligence Agency	15.2	1640506	Political science -- Handbooks, manuals, etc.;World politics -- Handbooks, manuals, etc.;Political statistics -- Handbooks, manuals, etc.;Geography -- Handbooks, manuals, etc.
+3735	The Inspector-General	Gogol, Nikolai Vasilevich	6.6	29373	Russia -- Social life and customs -- Drama,Russian drama -- Translations into English,Comedies
+51393	Toadstools, mushrooms, fungi, edible and poisonous; one thousand American fungi	Macadam, Robert K.	11.9	231146	
+1429	The Garden Party, and Other Stories	Mansfield, Katherine	6.9	57173	Short stories, New Zealand;New Zealand -- Social life and customs -- Fiction
+30123	Micromegas	Voltaire	11.3	7702	Life on other planets -- Fiction;Voyages, Imaginary -- Fiction;Interplanetary voyages -- Fiction;Short stories;Science fiction
+9980	Platero y yo	Jimenez, Juan Ramon	12.9	30987	Authors -- Fiction,Andalusia (Spain) -- Social life and customs -- Fiction,Donkeys -- Fiction
+3330	The Analects of Confucius (from the Chinese Classics)	Confucius	9.3	29311	Ethics -- China;Philosophy, Chinese
+7439	English Fairy Tales	Unknown	9.5	60883	Folklore -- England,Fairy tales -- England
+432	The Ambassadors	James, Henry	10	162021	Paris (France) -- Fiction,Man-woman relationships -- Fiction,Americans -- France -- Fiction,Psychological fiction,Young men -- Fiction
+51461	A Pail of Air	Leiber, Fritz	8.8	5800	
+9603	Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I	Cao, Xueqin	14.5	184327	Autobiographical fiction;China -- History -- Qing dynasty, 1644-1912 -- Fiction;Domestic fiction;Cao, Xueqin, approximately 1717-1763 -- Fiction;Jia, Baoyu (Fictitious character) -- Fiction
+1872	The Red House Mystery	Milne, A. A. (Alan Alexander)	6.7	60370	England -- Fiction,Detective and mystery stories
+564	The Mystery of Edwin Drood	Dickens, Charles	9.8	95606	Psychological fiction,Triangles (Interpersonal relations) -- Fiction,Missing persons -- Fiction,England -- Fiction,Mystery fiction,Choral conductors -- Fiction,Cathedrals -- Fiction,Separation (Psychology) -- Fiction
+6626	Theresa Raquin	Zola, Emile	10.5	70936	Murder -- Fiction,Guilt -- Fiction,Adultery -- Fiction
+95	The Prisoner of Zenda	Hope, Anthony	7.6	53712	British -- Foreign countries -- Fiction,Impostors and imposture -- Fiction,Adventure stories
+16769	Orthodoxy	Chesterton, G. K. (Gilbert Keith)	10.8	63642	Christianity -- Essence, genius, nature;Apologetics;Chesterton, G. K. (Gilbert Keith), 1874-1936
+11703	The Swiss Family Robinson; or Adventures in a Desert Island	Wyss, Johann David	12.2	122543	Family life -- Fiction,Survival -- Fiction,Islands -- Fiction
+15665	New Latin Grammar	Bennett, Charles E. (Charles Edwin)	11	81574	Latin language -- Grammar
+17157	Gulliver's Travels into Several Remote Regions of the World	Swift, Jonathan	16.2	52111	Fantasy fiction;Satire;Voyages, Imaginary -- Early works to 1800;Travelers -- Fiction;Gulliver, Lemuel (Fictitious character) -- Fiction
+12956	A History of Indian Philosophy, Volume 1	Dasgupta, Surendranath	16.5	212995	Hindu philosophy,India -- Religion
+2788	Little Men	Alcott, Louisa May	10.4	104971	New England -- History -- 19th century -- Fiction,Family life -- New England -- Fiction,Boarding schools -- Fiction,Schools -- Fiction
+9296	Clarissa Harlowe; or the history of a young lady - Volume 1	Richardson, Samuel	11.3	106924	Psychological fiction,Epistolary fiction,England -- Fiction,Young women -- Crimes against -- Fiction,Conflict of generations -- Fiction,Rape victims -- Fiction,Kidnapping victims -- Fiction
+15237	The Chemistry of Food and Nutrition	Duncan, A. W.	12.1	32972	Vegetarianism,Food -- Analysis,Diet
+4368	Flappers and Philosophers	Fitzgerald, F. Scott (Francis Scott)	9.3	60462	Short stories, American;Fiction
+51313	La chanson des vieux epoux	Loti, Pierre	19	2744	
+1642	Euthyphro	Plato	11	9202	Classical literature;Philosophy, Ancient;Socrates, 470 BC-399 BC;Piety -- Early works to 1800
+348	Hesiod, the Homeric Hymns, and Homerica	Hesiod	12.8	90161	Epic poetry, Greek -- Translations into English;Hymns, Greek (Classical) -- Translations into English;Gods, Greek -- Poetry;Epic poetry, Greek;Hesiod -- Translations into English
+51257	The Furious Rose	Evans, Dean	6.5	4508	
+3742	The Writings of Thomas Paine - Volume 2 (1779-1792): The Rights of Man	Paine, Thomas	15.3	93230	Great Britain -- Politics and government -- 1760-1820;France -- History -- Revolution, 1789-1799 -- Causes;Burke, Edmund, 1729-1797. Reflections on the revolution in France;Political science
+42988	Nursing as Caring: A Model for Transforming Practice	Boykin, Anne	14.4	35556	
+220	The Secret Sharer	Conrad, Joseph	7.7	16538	Ship captains -- Fiction,Fugitives from justice -- Fiction,Psychological fiction,Sea stories
+2449	The Common Law	Holmes, Oliver Wendell	11.3	132004	Common law
+6373	The Luck of Roaring Camp and Other Tales: With Condensed Novels, Spanish and American Legends, and Earlier Papers	Harte, Bret	10.7	129266	Western stories,Frontier and pioneer life -- West (U.S.) -- Fiction
+1017	The Soul of Man under Socialism	Wilde, Oscar	10	14391	Socialism
+1301	The French Revolution: A History	Carlyle, Thomas	14.4	300739	France -- History -- Revolution, 1789-1799;France -- History -- Louis XVI, 1774-1793
+24	O Pioneers!	Cather, Willa	7.3	55435	Swedish Americans -- Fiction,Women pioneers -- Fiction,Women farmers -- Fiction,Domestic fiction,Women immigrants -- Fiction,Frontier and pioneer life -- Nebraska -- Fiction,Historical fiction,Nebraska -- Fiction,Brothers and sisters -- Fiction,Farm life -- Fiction
+3011	The Lady of the Lake	Scott, Walter	12.1	78425	Arthurian romances,Lady of the Lake (Legendary character) -- Romances
+754	The Story of Mankind	Van Loon, Hendrik Willem	12.6	129204	World history,World history -- Juvenile literature
+3021	A Boy's Will	Frost, Robert	13.9	5737	American poetry -- 20th century
+6099	Les Fleurs du Mal	Baudelaire, Charles	16.1	24751	Poetry
+13610	Studies in the Psychology of Sex, Volume 1: The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism	Ellis, Havelock	16.2	139447	Sex (Psychology),Sex
+17405	The Art of War	Sunzi, active 6th century B.C.	11.7	10936	Military art and science -- Early works to 1800,War -- Early works to 1800
+3189	Sketches New and Old	Twain, Mark	11.7	97716	United States -- Social life and customs -- Fiction;Humorous stories, American
+39064	Hegel's Philosophy of Mind	Hegel, Georg Wilhelm Friedrich	17	118842	Philosophy
+5616	The Madman: His Parables and Poems	Gibran, Kahlil	8.9	7052	Mysticism -- Poetry,Parables
+39571	Nicolo Paganini: His Life and Work	Stratton, Stephen S. (Stephen Samuel)	12.4	55955	Paganini, Nicolo, 1782-1840;Violinists -- Biography
+9070	The Imaginary Invalid	Moliere	8.1	19674	Moliere, 1622-1673 -- Translations into English;Hypochondria -- Drama;Comedies
+3796	Rilla of Ingleside	Montgomery, L. M. (Lucy Maud)	8.2	103358	World War, 1914-1918 -- Prince Edward Island -- Juvenile fiction;Country life -- Canada -- Juvenile fiction;Prince Edward Island -- Juvenile fiction
+14407	The Tale of Benjamin Bunny	Potter, Beatrix	10.2	1190	Rabbits -- Juvenile fiction
+25290	Line and Form (1900)	Crane, Walter	19	45623	Decoration and ornament,Drawing
+675	American Notes	Dickens, Charles	16.2	103322	United States -- Social life and customs -- 1783-1865;Dickens, Charles, 1812-1870 -- Travel -- United States;United States -- Description and travel
+1750	Laws	Plato	16.6	238593	Political science -- Early works to 1800;State, The -- Early works to 1800
+41907	Demian: Die Geschichte von Emil Sinclairs Jugend	Hesse, Hermann	11.2	47222	
+11012	The Autobiography of an Ex-Colored Man	Johnson, James Weldon	12.1	51804	Racially mixed people -- Fiction,African American men -- Fiction
+10031	The Complete Poetical Works of Edgar Allan Poe: Including Essays on Poetry	Poe, Edgar Allan	14	60330	Fantasy poetry, American
+1026	The Diary of a Nobody	Grossmith, Weedon	7.9	41930	Humorous stories,Men -- England -- Fiction,Diary fiction,England -- Fiction,Suburban life -- Fiction,Middle class -- Fiction
+24950	Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts	Bradford, William	13.4	168627	Massachusetts -- History -- Colonial period, ca. 1600-1775
+10607	The Real Mother Goose	Unknown	10.5	16013	Nursery rhymes,Children's poetry
+22282	Uncle Remus and Brer Rabbit	Harris, Joel Chandler	10.3	6904	Plantation life -- Fiction;Animals -- Fiction;African American men -- Fiction;Remus, Uncle (Fictitious character) -- Fiction;Georgia -- Social life and customs -- Fiction
+246	The Rubaiyat of Omar Khayyam	Omar Khayyam	14.8	11716	Persian poetry -- Translations into English
+40074	A Dictionary of Cebuano Visayan	Wolff, John U.	6.2	964198	Cebuano language -- Dictionaries -- English
+51282	Lords and Lovers: and Other Dramas	Dargan, Olive Tilford	6.8	73261	
+42108	The Slang Dictionary: Etymological, Historical and Andecdotal	Hotten, John Camden	10.9	157261	
+537	Tales of Terror and Mystery	Doyle, Arthur Conan	9.8	75100	Detective and mystery stories, English;Horror tales, English
+1056	Martin Eden	London, Jack	8.6	138767	Bildungsromans,Autobiographical fiction,Authors -- Fiction,San Francisco (Calif.) -- Fiction,Working class -- Fiction,Young men -- Fiction
+811	The Tragical History of Doctor Faustus: From the Quarto of 1616	Marlowe, Christopher	8.9	22297	Magicians -- Drama;Tragedies;Germany -- Drama;Faust, -approximately 1540 -- Drama
+128	The Arabian Nights Entertainments	Lang, Andrew	12	111586	Fairy tales -- Arab countries,Fairy tales,Folklore -- Arab countries,Children's stories,Tales -- Arab countries,Arabs -- Folklore
+16726	Four Weird Tales	Blackwood, Algernon	10.7	54037	Fantasy fiction, English;Horror tales, English;Supernatural -- Fiction
+25929	Daemonologie.	James I, King of England	23.7	26697	Witchcraft -- Scotland;Fian, John, d. 1591;Magic;Demonology
+51442	A Beginner's Psychology	Titchener, Edward Bradford	14.1	104870	
+17851	The History of Mary Prince, a West Indian Slave	Prince, Mary	11.1	27289	Fugitive slaves -- West Indies -- Biography;Slavery -- West Indies;Prince, Mary
+2153	Mary Barton	Gaskell, Elizabeth Cleghorn	10.1	160646	Fathers and daughters -- Fiction,Trials (Murder) -- Fiction,Political fiction,Domestic fiction,Poor families -- Fiction,Triangles (Interpersonal relations) -- Fiction,Manchester (England) -- Fiction,Working class women -- Fiction,Labor unions -- Fiction,Textile industry -- Fiction,Love stories
+1376	The Little White Bird; Or, Adventures in Kensington Gardens	Barrie, J. M. (James Matthew)	10.6	66273	Fairies -- Fiction;Kensington Gardens (London, England) -- Fiction;Kensington (London, England) -- Fiction;Adventure stories;Peter Pan (Fictitious character) -- Fiction
+51451	Capture and Escape: A Narrative of Army and Prison Life	Kellogg, John Azor	10.5	39030	
+5683	The Critique of Practical Reason	Kant, Immanuel	25.9	62786	Philosophy, German;Ethics;Practical reason
+1745	The Poetical Works of John Milton	Milton, John	22.9	146106	English poetry
+18338	The Complete Poems of Paul Laurence Dunbar	Dunbar, Paul Laurence	11.6	89577	African Americans -- Poetry
+36098	The Flowers of Evil	Baudelaire, Charles	15.4	7853	French poetry -- Translations into English
+34607	Woodcraft and Camping	Sears, George Washington	11.3	39101	Camping
+5322	Woyzeck	Buchner, Georg	9	6296	Murderers -- Drama,Soldiers -- Mental health -- Drama,Germany -- Drama
+51412	Hamewith	Murray, Charles Theodore	15.1	13757	
+2407	Die Leiden des jungen Werther - Band 1	Goethe, Johann Wolfgang von	14.8	17490	Unrequited love -- Fiction,Young men -- Germany -- Fiction,Germany -- Social life and customs -- Fiction
+51291	Narrative and Critical History of America, Vol. IV (of 8): French Explorations and Settlements in North America and Those of the Portuguese, Dutch, and Swedes 1500-1700	Various	12.5	288067	
+34325	The Zen Experience	Hoover, Thomas	13	93881	Zen priests -- Biography,Zen Buddhism -- History
+51434	An Elephant for the Prinkip	Wesley, Joseph	7	3877	
+26558	Pennsylvania Dutch Cooking	Unknown	7.8	16765	Cooking -- Pennsylvania
+41562	The Hanging Stranger	Dick, Philip K.	5.6	5233	Science fiction,Short stories
+646	The Coral Island: A Tale of the Pacific Ocean	Ballantyne, R. M. (Robert Michael)	12.7	99504	Outdoor life -- Juvenile fiction,Oceania -- Juvenile fiction,Shipwrecks -- Juvenile fiction,Robinsonades,Conduct of life -- Juvenile fiction,Islands -- Juvenile fiction,Pirates -- Juvenile fiction,Survival skills -- Juvenile fiction,Natural history -- Juvenile fiction,Camping -- Juvenile fiction,Shipwreck survival -- Juvenile fiction
+43936	The Wonderful Wizard of Oz	Baum, L. Frank (Lyman Frank)	9.2	40009	
+1059	The World Set Free	Wells, H. G. (Herbert George)	12.6	64967	Nuclear warfare -- Fiction,Imaginary wars and battles -- Fiction,War stories
+14672	The Religion of the Ancient Celts	MacCulloch, J. A. (John Arnott)	11.2	130922	Mythology, Celtic;Celts -- Religion
+40745	Short Stories	Dostoyevsky, Fyodor	8.3	80442	Russia -- Social life and customs -- Fiction;Dostoyevsky, Fyodor, 1821-1881 -- Translations into English;Short stories, Russian -- Translations into English
+4274	Wives and Daughters	Gaskell, Elizabeth Cleghorn	9.6	270270	Fathers and daughters -- Fiction,Stepfamilies -- Fiction,Social classes -- Fiction,Children of physicians -- Fiction,Bildungsromans,England -- Fiction,Domestic fiction,Young women -- Fiction,Love stories
+5428	A Defence of Poetry and Other Essays	Shelley, Percy Bysshe	18.3	28563	English essays,Poetry
+8387	Hunger	Hamsun, Knut	7.9	66663	Authors -- Fiction,Norway -- Fiction,Hunger -- Fiction,Starvation -- Fiction,Urban poor -- Fiction
+81	The Return of Tarzan	Burroughs, Edgar Rice	10.4	89190	Fantasy fiction,Tarzan (Fictitious character) -- Fiction,Adventure stories
+1459	Prufrock and Other Observations	Eliot, T. S. (Thomas Stearns)	12.4	3826	Poetry
+470	Heretics	Chesterton, G. K. (Gilbert Keith)	11.3	64683	Apologetics;Chesterton, G. K. (Gilbert Keith), 1874-1936
+10135	The Great English Short-Story Writers, Volume 1	Unknown	12.2	85845	Short stories
+16269	Thought-Forms	Leadbeater, C. W. (Charles Webster)	17.5	21062	Theosophy -- Doctrines,Thought and thinking -- Religious aspects -- Theosophy
+41537	The Divine Comedy of Dante Alighieri: The Inferno	Dante Alighieri	12.8	115770	Hell;Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English
+14726	The Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson	Snorri Sturluson	10.3	87242	Mythology, Norse;Scalds and scaldic poetry
+28698	The Crystal Crypt	Dick, Philip K.	6.7	7334	Science fiction,Short stories
+6456	Public Opinion	Lippmann, Walter	13.2	104125	Social psychology,Public opinion -- United States,United States -- Politics and government,Public opinion,Social psychology -- United States
+6686	The Gardener	Tagore, Rabindranath	6.5	13996	Bengali poetry -- Translations into English;Indic poetry -- Translations into English;Tagore, Rabindranath, 1861-1941 -- Translations into English
+689	The Kreutzer Sonata and Other Stories	Tolstoy, Leo, graf	9.6	63979	Tolstoy, Leo, graf, 1828-1910 -- Translations into English;Short stories;Russia -- Social life and customs -- Fiction
+1190	The Jolly Corner	James, Henry	14.2	14158	Ghost stories,Fiction
+23666	Mission Furniture: How to Make It, Part 3	Windsor, H. H. (Henry Haven)	7	19461	Furniture making -- Amateurs' manuals;Furniture, Mission -- Design and construction
+2526	The Yoga Sutras of Patanjali: The Book of the Spiritual Man	Patanjali	14.2	30296	Yoga -- Early works to 1800
+456	The Door in the Wall, and Other Stories	Wells, H. G. (Herbert George)	9.5	43052	Fantasy fiction, English;Short stories;Science fiction, English
+14033	Plutarch's Lives, Volume I	Plutarch	19.2	184338	Greece -- Biography -- Early works to 1800,Rome -- Biography -- Early works to 1800
+17989	Le comte de Monte-Cristo, Tome I	Dumas, Alexandre	13.3	121578	Adventure stories;Revenge -- Fiction;France -- History -- 19th century -- Fiction;Pirates -- Fiction;Historical fiction;Prisoners -- Fiction;Dantes, Edmond (Fictitious character) -- Fiction
+769	The Book of Tea	Okakura, Kakuzo	12	17976	Japan -- Social life and customs,Japanese tea ceremony,Tea
+652	Rasselas, Prince of Abyssinia	Johnson, Samuel	14.5	37973	Princes -- Fiction,Happiness -- Fiction,Satire,Ethiopia -- Fiction
+830	The Argonautica	Apollonius, Rhodius	15.9	62210	Classical literature;Jason (Greek mythology);Argonauts (Greek mythology);Medea, consort of Aegeus, King of Athens (Mythological character)
+1012	La Divina Commedia di Dante	Dante Alighieri	14.8	97754	Italian poetry -- To 1400;Epic poetry, Italian
+29854	The Works of Aphra Behn: Volume V	Behn, Aphra	20.6	178043	English drama -- 17th century
+1103	King Richard III	Shakespeare, William	8.6	30901	Historical drama;Great Britain -- Kings and rulers -- Drama;Tragedies;Great Britain -- History -- Richard III, 1483-1485 -- Drama;Richard III, King of England, 1452-1485 -- Drama
+2344	The Adventure of the Cardboard Box	Doyle, Arthur Conan	8.5	8642	Private investigators -- England -- Fiction;Detective and mystery stories;Holmes, Sherlock (Fictitious character) -- Fiction
+15464	Foods That Will Win The War And How To Cook Them (1918)	Goudiss, C. Houston (Charles Houston)	11.5	30184	Menus;Food conservation;Cooking, American
+3200	The Entire Project Gutenberg Works of Mark Twain	Twain, Mark	12.6	194566	American literature -- 19th century,Literature -- Collections
+51319	Woodcraft Boys at Sunset Island	Roy, Lillian Elizabeth	9.1	56517	
+222	The Moon and Sixpence	Maugham, W. Somerset (William Somerset)	7.7	74970	Tahiti (French Polynesia : Island) -- Fiction,Painters -- Fiction,Psychological fiction,England -- Fiction
+3201	Moby Word Lists	Ward, Grady	12.7	537	Words and phrase lists -- English
+994	Riders to the Sea	Synge, J. M. (John Millington)	7.6	5001	Mothers and sons -- Drama,Seafaring life -- Drama,Ireland -- Drama,Drowning victims -- Drama
+33098	Ancient and Modern Ships, Part 1: Wooden Sailing Ships	Holmes, George Charles Vincent, Sir	12.9	43223	Ships -- History,Sailing ships -- History,Shipbuilding -- History
+41085	The New Life (La Vita Nuova)	Dante Alighieri	15.1	24691	Italian literature -- Translations into English
+1121	As You Like It	Shakespeare, William	8	22802	Exiles -- Drama,Comedies,Fathers and daughters -- Drama,Pastoral drama
+24811	Viking Tales	Hall, Jennie	6.2	31975	Short stories,Sagas -- Adaptations,Vikings -- Folklore
+227	Aeneidos	Virgil	18.1	63748	Epic poetry, Latin;Legends -- Rome -- Poetry;Aeneas (Legendary character) -- Poetry
+51338	L'autre monde ou Histoire comique des Etats et Empires de la Lune	Bergerac, Savinien de Cyrano de	21.7	45847	
+17147	Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil	Leibniz, Gottfried Wilhelm, Freiherr von	15.8	189070	Theodicy,Theism,Free will and determinism
+23673	The St. Gregory Hymnal and Catholic Choir Book	Unknown	11.1	46184	Catholic Church -- Hymns;Hymns, Latin;Hymns, English;Service books (Music) -- Catholic Church
+15147	Beeton's Book of Needlework	Beeton, Mrs. (Isabella Mary)	10.4	91863	Crocheting,Needlework -- Patterns,Knitting,Lace and lace making
+8486	Ghost Stories of an Antiquary	James, M. R. (Montague Rhodes)	11.3	45444	Short stories, English;Horror tales, English;Ghost stories, English
+968	Martin Chuzzlewit	Dickens, Charles	10.6	336735	Grandfathers -- Fiction,Avarice -- Fiction,United States -- Description and travel -- Fiction,Bildungsromans,Satire,Black humor,England -- Fiction,Adventure stories,British -- United States -- Fiction,Young men -- Fiction
+51437	Boy of My Heart	Leighton, Marie Connor	8.6	48894	
+51263	The Scarecrow of Oz	Baum, L. Frank (Lyman Frank)	9.7	46170	
+51426	Henry D. Thoreau	Sanborn, F. B.	13.1	68651	
+301	The Ballad of Reading Gaol	Wilde, Oscar	16.3	8202	Prisons -- Poetry,Imprisonment -- Poetry,Prisoners -- Poetry
+51459	The Analysis of Beauty: Written with a view of fixing the fluctuating ideas of taste	Hogarth, William	20.9	45783	
+1028	The Professor	Bronte, Charlotte	14.6	88037	Belgium -- Social life and customs -- 19th century -- Fiction,British -- Belgium -- Fiction,Triangles (Interpersonal relations) -- Fiction,Women teachers -- Fiction,Brussels (Belgium) -- Fiction,Love stories
+22373	Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore	Unknown	9.2	130817	Folklore -- Russia
+3528	Beethoven, the Man and the Artist, as Revealed in His Own Words	Beethoven, Ludwig van	11.7	23733	Composers -- Germany -- Biography;Beethoven, Ludwig van, 1770-1827
+32706	Triplanetary	Smith, E. E. (Edward Elmer)	10.9	90994	Human-alien encounters -- Fiction,Science fiction,Space warfare -- Fiction
+2145	Ben-Hur; a tale of the Christ	Wallace, Lew	10.1	197376	Bible. New Testament -- History of Biblical events -- Fiction;Historical fiction;Tiberius, Emperor of Rome 42 B.C.-37 A.D. -- Fiction;Christian fiction;Rome -- History -- Tiberius, 14-37 -- Fiction;Jesus Christ -- Fiction
+51443	Claudian, volume 1 (of 2): With an English translation by Maurice Platnauer	Claudianus, Claudius	14.3	94195	
+51468	The Love of Monsieur	Gibbs, George	8.7	51493	
+51469	Self-Control Its Kingship and Majesty	Jordan, William George	12	23887	
+51494	Beach Scene	King, Marshall	7	5250	
+51478	Dumbwaiter	Stamers, James	8.6	4190	
+51493	Kreativity For Kats	Leiber, Fritz	11.4	3276	
+51475	East In The Morning	Fisher, David E.	8.7	4352	
+51473	The Donkey, the Elephant, and the Goat: At a Public Meeting	Preston, Jack	12.7	2381	
+51477	A Garden Diary: September 1899-September 1900	Lawless, Emily	14	47873	
+51481	Flying Machines Today	Ennis, William Duane	14.2	33189	
+51482	Perfect Answer	Stecher, L.J.	7.9	3871	
+51483	The Reluctant Heroes	Robinson, Frank M.	6.2	6913	
+51484	Film Truth; September, 1920	Anonymous	10.8	9153	
+51487	Othmar	Ouida	11.2	191182	
+51491	Church History (Volumes 1-3)	Kurtz, J. H. (Johann Heinrich)	12.3	730715	
+51495	The Uncensored Letters of a Canteen Girl	Morse, Katharine Duncan	9.4	95496	

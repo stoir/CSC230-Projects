@@ -1,0 +1,32 @@
+cmd> catalog
+   ID                                  Title               Author Level   Words
+   11       Alice's Adventures in Wonderland       Carroll, Lewis   9.3   26389
+   23 Narrative of the Life of Frederick D..  Douglass, Frederick  10.5   40740
+   74           The Adventures of Tom Sawyer          Twain, Mark   8.8   70796
+   76         Adventures of Huckleberry Finn          Twain, Mark   8.7  111219
+   84 Frankenstein; Or, The Modern Prometh.. Shelley, Mary Woll..  12.6   74959
+   98                   A Tale of Two Cities     Dickens, Charles  10.3  135820
+  135                         Les Miserables         Hugo, Victor  10.2  565071
+  158                                   Emma         Austen, Jane   9.6  157439
+  174             The Picture of Dorian Gray         Wilde, Oscar   6.7   78920
+  345                                Dracula         Stoker, Bram   8.8  160693
+  844 The Importance of Being Earnest: A T..         Wilde, Oscar   7.0   20625
+ 1080 A Modest Proposal: For preventing th..      Swift, Jonathan  26.6    3410
+ 1232                             The Prince Machiavelli, Niccolo  20.6   49525
+ 1260            Jane Eyre: An Autobiography    Bronte, Charlotte  10.4  185452
+ 1322                        Leaves of Grass        Whitman, Walt  19.1  121711
+ 1342                    Pride and Prejudice         Austen, Jane  10.7  121533
+ 1400                     Great Expectations     Dickens, Charles   9.9  184398
+ 1661      The Adventures of Sherlock Holmes  Doyle, Arthur Conan   8.2  104488
+ 1952                   The Yellow Wallpaper Gilman, Charlotte ..   7.2    6067
+ 2542                A Doll's House : a play        Ibsen, Henrik   5.3   26466
+ 2591                    Grimms' Fairy Tales       Grimm, Wilhelm  10.5  101107
+ 2600                          War and Peace   Tolstoy, Leo, graf  10.8  563029
+ 2701               Moby Dick; Or, The Whale     Melville, Herman  13.4  212099
+ 4300                                Ulysses         Joyce, James   8.6  264835
+ 5200                          Metamorphosis         Kafka, Franz  13.8   22022
+16328      Beowulf: An Anglo-Saxon Epic Poem              Unknown  13.3   38925
+27827 The Kama Sutra of Vatsyayana: Transl..           Vatsyayana  13.5   58912
+30254 The Romance of Lust: A Classic Victo..            Anonymous  12.9  188911
+
+cmd> quit

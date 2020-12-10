@@ -1,0 +1,3 @@
+Raleigh 355.24
+Los-Angeles 229.67
+Miami 2616.04

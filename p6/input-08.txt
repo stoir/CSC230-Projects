@@ -1,0 +1,6 @@
+  push  int  900
+  push   real
+  729.23716
+enqueue     string       extra   spaces
+  push int 500 enqueue int 600
+pop pop pop pop

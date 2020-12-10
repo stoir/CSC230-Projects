@@ -1,0 +1,17 @@
+cmd> catalog
+   ID                                  Title               Author Level   Words
+   11       Alice's Adventures in Wonderland       Carroll, Lewis   9.3   26389
+   76         Adventures of Huckleberry Finn          Twain, Mark   8.7  111219
+   84 Frankenstein; Or, The Modern Prometh.. Shelley, Mary Woll..  12.6   74959
+ 1952                   The Yellow Wallpaper Gilman, Charlotte ..   7.2    6067
+ 5200                          Metamorphosis         Kafka, Franz  13.8   22022
+
+cmd> addd 84
+Invalid command
+
+cmd> add 84
+
+cmd> level 10 abc
+Invalid command
+
+cmd> quit

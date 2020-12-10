@@ -1,0 +1,14 @@
+cmd> subject stories
+   ID                                  Title               Author Level   Words
+  120                        Treasure Island Stevenson, Robert ..   9.2   68267
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 2814                              Dubliners         Joyce, James   8.0   67546
+
+cmd> subject Revenge
+   ID                                  Title               Author Level   Words
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+
+cmd> quit

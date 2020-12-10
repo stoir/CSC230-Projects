@@ -1,0 +1,6 @@
+push int 10
+push real 3.14
+enqueue string roses are red
+pop
+pop
+pop

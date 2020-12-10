@@ -1,0 +1,6 @@
+catalog
+list
+add 829
+add 42
+list
+quit

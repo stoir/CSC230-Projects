@@ -1,0 +1,5 @@
+5200	Metamorphosis	Kafka, Franz	13.8	22022	Psychological fiction,Metamorphosis -- Fiction
+84	Frankenstein; Or, The Modern Prometheus	Shelley, Mary Wollstonecraft	12.6	74959	Monsters -- Fiction;Frankenstein's monster (Fictitious character) -- Fiction;Gothic fiction (Literary genre);Science fiction;Frankenstein, Victor (Fictitious character) -- Fiction;Scientists -- Fiction;Horror tales
+11	Alice's Adventures in Wonderland	Carroll, Lewis	9.3	26389	Fantasy
+1952	The Yellow Wallpaper	Gilman, Charlotte Perkins	7.2	6067	Mentally ill women -- Fiction,Feminist fiction,Psychological fiction,Married women -- Psychology -- Fiction,Sex role -- Fiction
+76	Adventures of Huckleberry Finn	Twain, Mark	8.7	111219	Male friendship -- Fiction;Humorous stories;Missouri -- Fiction;Race relations -- Fiction;Bildungsromans;Finn, Huckleberry (Fictitious character) -- Fiction;Fugitive slaves -- Fiction;Mississippi River -- Fiction;Adventure stories;Runaway children -- Fiction;Boys -- Fiction

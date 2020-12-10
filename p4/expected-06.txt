@@ -1,0 +1,16 @@
+cmd> level 9.7 13.0
+   ID                                  Title               Author Level   Words
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+ 1400                     Great Expectations     Dickens, Charles   9.9  184398
+  135                         Les Miserables         Hugo, Victor  10.2  565071
+   98                   A Tale of Two Cities     Dickens, Charles  10.3  135820
+ 1260            Jane Eyre: An Autobiography    Bronte, Charlotte  10.4  185452
+   23 Narrative of the Life of Frederick D..  Douglass, Frederick  10.5   40740
+ 2591                    Grimms' Fairy Tales       Grimm, Wilhelm  10.5  101107
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 2600                          War and Peace   Tolstoy, Leo, graf  10.8  563029
+   42 The Strange Case of Dr. Jekyll and M.. Stevenson, Robert ..  11.0   25740
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+30254 The Romance of Lust: A Classic Victo..            Anonymous  12.9  188911
+
+cmd> quit

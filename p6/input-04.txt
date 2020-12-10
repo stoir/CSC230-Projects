@@ -1,0 +1,15 @@
+push int 33
+enqueue int 44
+push int 55
+enqueue int 66
+push int 77
+enqueue int 88
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push int 999
+pop

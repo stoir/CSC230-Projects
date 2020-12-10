@@ -1,0 +1,6 @@
+push int 10
+push int 20
+push int 30
+pop
+pop
+pop

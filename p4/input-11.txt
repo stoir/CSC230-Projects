@@ -1,0 +1,52 @@
+catalog
+add 1952
+add 27827
+add 135
+add 160
+add 844
+add 84
+add 829
+add 1342
+add 161
+add 219
+add 1322
+add 2591
+add 42
+add 4300
+add 1661
+add 2814
+add 98
+add 2542
+add 345
+add 76
+add 768
+add 3207
+add 30254
+add 120
+add 23
+add 1232
+add 2600
+add 174
+add 1080
+add 5200
+add 1184
+add 1400
+add 11
+add 16328
+add 74
+add 2701
+add 158
+add 1260
+list
+remove 1260
+remove 3207
+remove 2591
+remove 158
+remove 120
+remove 84
+remove 174
+remove 2542
+remove 16328
+remove 829
+list
+quit

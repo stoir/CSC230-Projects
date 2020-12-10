@@ -1,0 +1,17 @@
+Tis input ile is erent.
+I all of te other
+te input lnes are the same
+lngth, so ou don've
+t worry
+aout a col commanfecting
+jst some o the li
+
+Bt, in thi file
+w can havecases
+were
+sme short ines araffected by removing a range
+o columns. Other s might have
+caracters emoved
+fom just te
+ed, while thers m have characters
+rmoved fro the mi.

@@ -1,0 +1,7 @@
+enqueue int 10
+enqueue int 20
+enqueue int 30
+enqueue int 40
+pop
+pop
+pop

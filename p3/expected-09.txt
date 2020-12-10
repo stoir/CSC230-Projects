@@ -1,0 +1,14 @@
+        Name  Sec   Verb  Logic X
+       Young  003  89.81  80.85 D
+       Venus  002  72.29  76.20 A
+      Jasmin  003  55.19  63.88 F
+     Micheal  001  98.93  99.00 C
+       Abram  001  50.23  57.36 E
+   Rigoberto  002  61.63  77.05 B
+         Noe  003  68.41  64.60 A
+     Kristin  002  77.34  65.16 B
+     Phillip  001  63.19  52.39 B
+     Monique  001  81.76  80.15 A
+       Verda  002  93.03  93.58 C
+      Louise  003  70.30  61.91 C
+       Vilma  001  71.09  76.72 G

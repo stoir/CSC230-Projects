@@ -1,0 +1,1 @@
+Total: 511, count: 9, average: 56.7778, min: 8, max: 106

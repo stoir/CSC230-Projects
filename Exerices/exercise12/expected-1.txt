@@ -1,0 +1,5 @@
+./arguments
+this
+is
+a
+test

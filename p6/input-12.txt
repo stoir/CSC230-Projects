@@ -1,0 +1,19 @@
+push int 25
+push int 30
+push int 35
+enqueue real 3
+enqueue real 4
+enqueue real 5
+push string red
+push string green
+push string blue
+pop
+pop
+pop
+pop
+push real 3.456
+push double 7.89
+push real 0.000
+pop
+pop
+pop

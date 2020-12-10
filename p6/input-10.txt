@@ -1,0 +1,6 @@
+push int 25
+push int 35
+pop
+push int abc
+pop
+pop

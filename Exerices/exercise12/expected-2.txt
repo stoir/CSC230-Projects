@@ -1,0 +1,12 @@
+./arguments
+this
+is
+a
+command-line-argument-thats-46-characters-long
+but
+the
+rest
+of
+them
+are
+shorter

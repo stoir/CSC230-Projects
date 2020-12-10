@@ -1,0 +1,5 @@
+catalog
+addd 84
+add 84
+level 10 abc
+quit

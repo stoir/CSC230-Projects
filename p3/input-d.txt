@@ -1,0 +1,17 @@
+This input file is different.
+In all of the others,
+the input lines are all the same
+length, so you don't have
+to worry
+about a cols command affecting
+just some of the lines.
+
+But, in this file
+we can have cases
+where
+some short lines are unaffected by removing a range
+of columns.  Other lines might have
+characters removed
+from just the
+end, while others might have characters
+removed from the middle.

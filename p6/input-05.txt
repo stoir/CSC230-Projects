@@ -1,0 +1,4 @@
+enqueue real 6.789
+enqueue real 22
+pop
+pop

@@ -1,0 +1,36 @@
+cmd> level 5.0 27.0
+   ID                                  Title               Author Level   Words
+ 2542                A Doll's House : a play        Ibsen, Henrik   5.3   26466
+  174             The Picture of Dorian Gray         Wilde, Oscar   6.7   78920
+  844 The Importance of Being Earnest: A T..         Wilde, Oscar   7.0   20625
+ 2814                              Dubliners         Joyce, James   8.0   67546
+ 1661      The Adventures of Sherlock Holmes  Doyle, Arthur Conan   8.2  104488
+ 4300                                Ulysses         Joyce, James   8.6  264835
+   74           The Adventures of Tom Sawyer          Twain, Mark   8.8   70796
+  160 The Awakening, and Selected Short St..         Chopin, Kate   8.8   63991
+  345                                Dracula         Stoker, Bram   8.8  160693
+  219                      Heart of Darkness       Conrad, Joseph   9.0   37902
+  120                        Treasure Island Stevenson, Robert ..   9.2   68267
+  158                                   Emma         Austen, Jane   9.6  157439
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+ 1400                     Great Expectations     Dickens, Charles   9.9  184398
+  135                         Les Miserables         Hugo, Victor  10.2  565071
+   98                   A Tale of Two Cities     Dickens, Charles  10.3  135820
+ 1260            Jane Eyre: An Autobiography    Bronte, Charlotte  10.4  185452
+   23 Narrative of the Life of Frederick D..  Douglass, Frederick  10.5   40740
+ 2591                    Grimms' Fairy Tales       Grimm, Wilhelm  10.5  101107
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 2600                          War and Peace   Tolstoy, Leo, graf  10.8  563029
+   42 The Strange Case of Dr. Jekyll and M.. Stevenson, Robert ..  11.0   25740
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+30254 The Romance of Lust: A Classic Victo..            Anonymous  12.9  188911
+16328      Beowulf: An Anglo-Saxon Epic Poem              Unknown  13.3   38925
+ 2701               Moby Dick; Or, The Whale     Melville, Herman  13.4  212099
+27827 The Kama Sutra of Vatsyayana: Transl..           Vatsyayana  13.5   58912
+ 1322                        Leaves of Grass        Whitman, Walt  19.1  121711
+  829 Gulliver's Travels into Several Remo..      Swift, Jonathan  19.3  104293
+ 1232                             The Prince Machiavelli, Niccolo  20.6   49525
+ 3207                              Leviathan       Hobbes, Thomas  20.6  213304
+ 1080 A Modest Proposal: For preventing th..      Swift, Jonathan  26.6    3410
+
+cmd> quit

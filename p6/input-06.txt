@@ -1,0 +1,8 @@
+enqueue string roses are red
+enqueue string violets are blue
+enqueue string sugar is sweet
+enqueue string and so are you
+pop
+pop
+pop
+pop

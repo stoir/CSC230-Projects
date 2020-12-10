@@ -1,0 +1,45 @@
+cmd> catalog
+   ID                                  Title               Author Level   Words
+   42 The Strange Case of Dr. Jekyll and M.. Stevenson, Robert ..  11.0   25740
+  120                        Treasure Island Stevenson, Robert ..   9.2   68267
+  160 The Awakening, and Selected Short St..         Chopin, Kate   8.8   63991
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+  219                      Heart of Darkness       Conrad, Joseph   9.0   37902
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+  829 Gulliver's Travels into Several Remo..      Swift, Jonathan  19.3  104293
+ 1184 The Count of Monte Cristo, Illustrated     Dumas, Alexandre  10.8  459021
+ 2814                              Dubliners         Joyce, James   8.0   67546
+ 3207                              Leviathan       Hobbes, Thomas  20.6  213304
+
+cmd> add 161
+
+cmd> add 160
+
+cmd> add 768
+
+cmd> add 161
+Book 161 is already on the reading list
+
+cmd> list
+   ID                                  Title               Author Level   Words
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+  160 The Awakening, and Selected Short St..         Chopin, Kate   8.8   63991
+  768                      Wuthering Heights        Bronte, Emily   9.9  115874
+                                                                   10.3  298443
+
+cmd> remove 160
+
+cmd> remove 786
+Book 786 is not on the reading list
+
+cmd> remove 160
+Book 160 is not on the reading list
+
+cmd> remove 768
+
+cmd> list
+   ID                                  Title               Author Level   Words
+  161                  Sense and Sensibility         Austen, Jane  12.3  118578
+                                                                   12.3  118578
+
+cmd> quit

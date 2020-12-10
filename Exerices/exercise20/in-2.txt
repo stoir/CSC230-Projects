@@ -1,0 +1,1 @@
+input =   134 (decimal),   206 (octal),    86 (hex)

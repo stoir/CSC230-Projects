@@ -1,0 +1,12 @@
+catalog
+add 161
+add 160
+add 768
+add 161
+list
+remove 160
+remove 786
+remove 160
+remove 768
+list
+quit

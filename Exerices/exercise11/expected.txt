@@ -1,0 +1,25 @@
+1286
+This is a test input file for our resizable array exercise.
+I want it to be long enough that we get a few reallocations while
+reading the file.  So, I have to fill space.  What to talk about ...
+
+I know.  I'll talk about C.  It's a good language. It gives us
+access to three memory regions (static, stack and heap).  The
+program that processes this file is a good opportunity to practice
+working with heap.
+
+I know a person who likes to say "C is the new assembly language."
+His point was that, for many applications, C gets us close enough to
+the hardware that we don't need to code directly in assembly.  Of
+course, it's still useful to be able to work in assembly.  We may have
+to write a few performance-critical or hardware-dependent parts of an
+application or an operating system with some code in assembly.  Also,
+knowing some assembly gives us insight into what we're really doing
+when we program in a higher-level language.
+
+(Although, really, I'd rather be programming in C++.  It lets us
+work like C programmers when we need to, and it gives us access
+to object orientation, generics, namespaces and other features that
+make it easier to develop large-scale programs.  We'll spend some
+time on C++ at the end of the semester, but we'll just have time
+to hit the highlights.)

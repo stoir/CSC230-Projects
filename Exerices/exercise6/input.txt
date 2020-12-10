@@ -1,0 +1,5 @@
+This is just a text file.
+It has some spaces between the words.
+         And, I put a bunch of spaces
+at the start of the line above, just so
+we'd have more spaces to replace.
